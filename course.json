@@ -1,0 +1,53 @@
+{
+  "schedule": "schedule/schedule.md",
+  "syllabus": "instruction/syllabus/syllabus.md",
+  "modules": [
+    {
+      "title": "Course info",
+      "topics": [
+        {
+          "title": "Home",
+          "path": "README.md",
+          "id": "330b3872aab6442fac17c6730d7502ed"
+        },
+        {
+          "title": "Syllabus",
+          "path": "instruction/syllabus/syllabus.md",
+          "id": "3384677c4b7c47b1a40402c63ed07db8"
+        },
+        {
+          "title": "Schedule",
+          "path": "schedule/schedule.md",
+          "id": "33398bdff38f40108c07a336314519d4"
+        }
+      ]
+    },
+    {
+      "title": "Getting started",
+      "topics": [
+        {
+          "title": "☑ Introduction",
+          "path": "instruction/introduction/introduction.md",
+          "id": "339990d2454747d6a7d8da1c57825e1f"
+        },
+        {
+          "title": "Example topic",
+          "path": "instruction/exampleTopic/exampleTopic.md",
+          "id": "33344322454747d6a7d8da1c57825e1f"
+        },
+        {
+          "title": "Example quiz",
+          "path": "instruction/exampleQuiz/exampleQuiz.md",
+          "id": "33ccbb16c3e243d39c8d1b0f3b64d52e",
+          "type": "quiz"
+        },
+        {
+          "title": "Example video",
+          "path": "https://youtu.be/PKiRH2ZKZeM",
+          "type": "video",
+          "id": "3330b0df266449eadc8f4e9a1e966b6"
+        }
+      ]
+    }
+  ]
+}
