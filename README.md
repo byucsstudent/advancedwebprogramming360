@@ -1,7 +1,7 @@
 ![BYU logo](byuLogo.png?raw=true)
 
 # %%MASTERYLS_TITLE%% %%MASTERYLS_NAME%%
-better test
+better test3
 ![cover](coursecover.jpg?raw=true)
 
 ## Welcome
