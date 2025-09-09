@@ -1,12 +1,12 @@
 ![BYU logo](byuLogo.png?raw=true)
 
-# %%MASTERYLS_TITLE%% %%MASTERYLS_NAME%%
+# CS 360 Advanced Web Programming
 better test3
 ![cover](coursecover.jpg?raw=true)
 
 ## Welcome
 
-%%MASTERYLS_DESCRIPTION%%
+This is amazing web programming content.
 
 The content for this course is represented by the following parts.
 
