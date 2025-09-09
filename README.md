@@ -1,6 +1,6 @@
 ![BYU logo](byuLogo.png?raw=true)
 
-# xxx
+# CS 360
 better test3
 ![cover](coursecover.jpg?raw=true)
 
