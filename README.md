@@ -1,7 +1,7 @@
 ![BYU logo](byuLogo.png?raw=true)
 
 # CS 360
-better test3
+better test3 taco
 ![cover](coursecover.jpg?raw=true)
 
 ## Welcome
