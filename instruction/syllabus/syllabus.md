@@ -1,4 +1,4 @@
-# CS 000 Syllabus - Template
+# %%MASTERYLS_NAME%% %%MASTERYLS_TITLE%%
 
 ## Course Description
 
