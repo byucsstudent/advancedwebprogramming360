@@ -33,6 +33,12 @@
           "type": "instruction",
           "path": "instruction/cow/cow.md",
           "id": "ef518b4b3c6f4cbc9c372f31054ed97e"
+        },
+        {
+          "title": "dog",
+          "type": "instruction",
+          "path": "instruction/dog/dog.md",
+          "id": "b59e25b6335544338dd3b610ca8cf02b"
         }
       ]
     },
