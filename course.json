@@ -29,6 +29,12 @@
           "id": "65b8b472269a44f3959b91c88a2aabeb"
         },
         {
+          "title": "taco",
+          "type": "instruction",
+          "path": "instruction/taco/taco.md",
+          "id": "fa502924283a40ddb88139d3c51ea9ef"
+        },
+        {
           "title": "cow",
           "type": "instruction",
           "path": "instruction/cow/cow.md",
