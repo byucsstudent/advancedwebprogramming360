@@ -45,6 +45,12 @@
           "type": "instruction",
           "path": "instruction/rat/rat.md",
           "id": "28edb3469102499f9883c97d25bf21e2"
+        },
+        {
+          "title": "mouse",
+          "type": "instruction",
+          "path": "instruction/mouse/mouse.md",
+          "id": "0965e0013e344213baf14af19ffa9973"
         }
       ]
     },
