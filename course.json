@@ -1,6 +1,8 @@
 {
+  "title": "Advanced Web Programming",
   "schedule": "schedule/schedule.md",
   "syllabus": "instruction/syllabus/syllabus.md",
+  "links": {},
   "modules": [
     {
       "title": "Course info",
@@ -19,6 +21,12 @@
           "title": "Schedule",
           "path": "schedule/schedule.md",
           "id": "33398bdff38f40108c07a336314519d4"
+        },
+        {
+          "title": "cow",
+          "type": "instruction",
+          "path": "instruction/cow/cow.md",
+          "id": "51d49d2d0c4a4de39a082bfb1cb03f2b"
         }
       ]
     },
@@ -37,14 +45,14 @@
         },
         {
           "title": "Example quiz",
+          "type": "quiz",
           "path": "instruction/exampleQuiz/exampleQuiz.md",
-          "id": "33ccbb16c3e243d39c8d1b0f3b64d52e",
-          "type": "quiz"
+          "id": "33ccbb16c3e243d39c8d1b0f3b64d52e"
         },
         {
           "title": "Example video",
-          "path": "https://youtu.be/PKiRH2ZKZeM",
           "type": "video",
+          "path": "https://youtu.be/PKiRH2ZKZeM",
           "id": "3330b0df266449eadc8f4e9a1e966b6"
         }
       ]
