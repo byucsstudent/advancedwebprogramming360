@@ -27,6 +27,12 @@
           "type": "instruction",
           "path": "instruction/cow/cow.md",
           "id": "51d49d2d0c4a4de39a082bfb1cb03f2b"
+        },
+        {
+          "title": "fish",
+          "type": "instruction",
+          "path": "instruction/fish/fish.md",
+          "id": "65b8b472269a44f3959b91c88a2aabeb"
         }
       ]
     },
