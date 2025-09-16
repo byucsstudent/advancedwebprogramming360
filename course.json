@@ -27,6 +27,12 @@
           "type": "instruction",
           "path": "instruction/fish/fish.md",
           "id": "65b8b472269a44f3959b91c88a2aabeb"
+        },
+        {
+          "title": "rat",
+          "type": "quiz",
+          "path": "instruction/rat/rat.md",
+          "id": "32eea9c72c0148eba39739059242604c"
         }
       ]
     },
