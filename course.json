@@ -23,12 +23,6 @@
           "id": "33398bdff38f40108c07a336314519d4"
         },
         {
-          "title": "cow",
-          "type": "instruction",
-          "path": "instruction/cow/cow.md",
-          "id": "51d49d2d0c4a4de39a082bfb1cb03f2b"
-        },
-        {
           "title": "fish",
           "type": "instruction",
           "path": "instruction/fish/fish.md",
