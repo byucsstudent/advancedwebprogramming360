@@ -41,12 +41,6 @@
           "id": "fa502924283a40ddb88139d3c51ea9ef"
         },
         {
-          "title": "dog",
-          "type": "instruction",
-          "path": "instruction/dog/dog.md",
-          "id": "b59e25b6335544338dd3b610ca8cf02b"
-        },
-        {
           "title": "rat",
           "type": "instruction",
           "path": "instruction/rat/rat.md",
