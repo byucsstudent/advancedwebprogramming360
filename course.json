@@ -54,6 +54,7 @@
       "topics": [
         {
           "title": "Home",
+          "type": "video",
           "path": "README.md",
           "id": "330b3872aab6442fac17c6730d7502ed"
         },
