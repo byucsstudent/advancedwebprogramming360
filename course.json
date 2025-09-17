@@ -64,6 +64,12 @@
       "title": "Getting started",
       "topics": [
         {
+          "title": "Example quiz",
+          "type": "quiz",
+          "path": "instruction/exampleQuiz/exampleQuiz.md",
+          "id": "33ccbb16c3e243d39c8d1b0f3b64d52e"
+        },
+        {
           "title": "☑ Introduction",
           "path": "instruction/introduction/introduction.md",
           "id": "339990d2454747d6a7d8da1c57825e1f"
@@ -72,12 +78,6 @@
           "title": "Example topic",
           "path": "instruction/exampleTopic/exampleTopic.md",
           "id": "33344322454747d6a7d8da1c57825e1f"
-        },
-        {
-          "title": "Example quiz",
-          "type": "quiz",
-          "path": "instruction/exampleQuiz/exampleQuiz.md",
-          "id": "33ccbb16c3e243d39c8d1b0f3b64d52e"
         },
         {
           "title": "Example video",
