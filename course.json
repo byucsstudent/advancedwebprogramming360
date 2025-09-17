@@ -8,14 +8,14 @@
       "title": "Course info",
       "topics": [
         {
-          "title": "Home",
-          "path": "README.md",
-          "id": "330b3872aab6442fac17c6730d7502ed"
-        },
-        {
           "title": "Syllabus",
           "path": "instruction/syllabus/syllabus.md",
           "id": "3384677c4b7c47b1a40402c63ed07db8"
+        },
+        {
+          "title": "Home",
+          "path": "README.md",
+          "id": "330b3872aab6442fac17c6730d7502ed"
         },
         {
           "title": "Schedule",
