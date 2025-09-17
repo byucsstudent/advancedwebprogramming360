@@ -47,15 +47,15 @@
       "title": "Getting started",
       "topics": [
         {
+          "title": "Home",
+          "path": "README.md",
+          "id": "330b3872aab6442fac17c6730d7502ed"
+        },
+        {
           "title": "music",
           "type": "instruction",
           "path": "instruction/music/music.md",
           "id": "61462ca6ad124cd990ae0676792d9613"
-        },
-        {
-          "title": "Home",
-          "path": "README.md",
-          "id": "330b3872aab6442fac17c6730d7502ed"
         },
         {
           "title": "Example quiz",
