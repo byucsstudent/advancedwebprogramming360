@@ -8,7 +8,8 @@
       "title": "Course info",
       "topics": [
         {
-          "title": "Schedule",
+          "title": "Schedulex",
+          "type": "instruction",
           "path": "schedule/schedule.md",
           "id": "33398bdff38f40108c07a336314519d4"
         },
