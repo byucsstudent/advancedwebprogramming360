@@ -13,15 +13,15 @@
           "id": "3384677c4b7c47b1a40402c63ed07db8"
         },
         {
-          "title": "Schedule",
-          "path": "schedule/schedule.md",
-          "id": "33398bdff38f40108c07a336314519d4"
-        },
-        {
           "title": "fish",
           "type": "instruction",
           "path": "instruction/fish/fish.md",
           "id": "65b8b472269a44f3959b91c88a2aabeb"
+        },
+        {
+          "title": "Schedule",
+          "path": "schedule/schedule.md",
+          "id": "33398bdff38f40108c07a336314519d4"
         },
         {
           "title": "rat",
@@ -36,16 +36,16 @@
           "id": "fa502924283a40ddb88139d3c51ea9ef"
         },
         {
-          "title": "mouse",
-          "type": "instruction",
-          "path": "instruction/mouse/mouse.md",
-          "id": "0965e0013e344213baf14af19ffa9973"
-        },
-        {
           "title": "pickels",
           "type": "instruction",
           "path": "instruction/pickels/pickels.md",
           "id": "18ae5021f15a410da6a9aa9372d7df88"
+        },
+        {
+          "title": "mouse",
+          "type": "instruction",
+          "path": "instruction/mouse/mouse.md",
+          "id": "0965e0013e344213baf14af19ffa9973"
         },
         {
           "title": "music",
@@ -70,15 +70,15 @@
           "id": "330b3872aab6442fac17c6730d7502ed"
         },
         {
-          "title": "☑ Introduction",
-          "path": "instruction/introduction/introduction.md",
-          "id": "339990d2454747d6a7d8da1c57825e1f"
-        },
-        {
           "title": "Example quiz",
           "type": "quiz",
           "path": "instruction/exampleQuiz/exampleQuiz.md",
           "id": "33ccbb16c3e243d39c8d1b0f3b64d52e"
+        },
+        {
+          "title": "☑ Introduction",
+          "path": "instruction/introduction/introduction.md",
+          "id": "339990d2454747d6a7d8da1c57825e1f"
         },
         {
           "title": "Example topic",
