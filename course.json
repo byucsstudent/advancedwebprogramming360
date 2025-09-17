@@ -14,8 +14,8 @@
           "id": "33398bdff38f40108c07a336314519d4"
         },
         {
-          "title": "fish",
-          "type": "instruction",
+          "title": "fishy",
+          "type": "quiz",
           "path": "instruction/fish/fish.md",
           "id": "65b8b472269a44f3959b91c88a2aabeb"
         },
