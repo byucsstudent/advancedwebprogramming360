@@ -24,11 +24,6 @@
           "id": "65b8b472269a44f3959b91c88a2aabeb"
         },
         {
-          "title": "Home",
-          "path": "README.md",
-          "id": "330b3872aab6442fac17c6730d7502ed"
-        },
-        {
           "title": "rat",
           "type": "instruction",
           "path": "instruction/rat/rat.md",
@@ -63,6 +58,11 @@
     {
       "title": "Getting started",
       "topics": [
+        {
+          "title": "Home",
+          "path": "README.md",
+          "id": "330b3872aab6442fac17c6730d7502ed"
+        },
         {
           "title": "Example quiz",
           "type": "quiz",
