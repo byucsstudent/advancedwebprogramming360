@@ -51,18 +51,18 @@
           "title": "Home",
           "path": "README.md",
           "id": "330b3872aab6442fac17c6730d7502ed"
-        },
-        {
-          "title": "hill",
-          "type": "project",
-          "path": "instruction/hill/hill.md",
-          "id": "038036e5e11b467493c323922d15cdcf"
         }
       ]
     },
     {
       "title": "Getting started",
       "topics": [
+        {
+          "title": "hill",
+          "type": "project",
+          "path": "instruction/hill/hill.md",
+          "id": "038036e5e11b467493c323922d15cdcf"
+        },
         {
           "title": "Example quiz",
           "type": "quiz",
