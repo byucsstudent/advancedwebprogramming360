@@ -40,18 +40,18 @@
           "type": "instruction",
           "path": "instruction/mouse/mouse.md",
           "id": "0965e0013e344213baf14af19ffa9973"
-        },
-        {
-          "title": "music",
-          "type": "instruction",
-          "path": "instruction/music/music.md",
-          "id": "61462ca6ad124cd990ae0676792d9613"
         }
       ]
     },
     {
       "title": "Getting started",
       "topics": [
+        {
+          "title": "music",
+          "type": "instruction",
+          "path": "instruction/music/music.md",
+          "id": "61462ca6ad124cd990ae0676792d9613"
+        },
         {
           "title": "Home",
           "path": "README.md",
