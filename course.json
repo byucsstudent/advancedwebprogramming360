@@ -18,21 +18,9 @@
           "id": "3384677c4b7c47b1a40402c63ed07db8"
         },
         {
-          "title": "taco",
-          "type": "instruction",
-          "path": "instruction/taco/taco.md",
-          "id": "fa502924283a40ddb88139d3c51ea9ef"
-        },
-        {
           "title": "Schedule",
           "path": "schedule/schedule.md",
           "id": "33398bdff38f40108c07a336314519d4"
-        },
-        {
-          "title": "rat",
-          "type": "instruction",
-          "path": "instruction/rat/rat.md",
-          "id": "28edb3469102499f9883c97d25bf21e2"
         },
         {
           "title": "fish",
@@ -41,10 +29,16 @@
           "id": "65b8b472269a44f3959b91c88a2aabeb"
         },
         {
-          "title": "hill",
-          "type": "project",
-          "path": "instruction/hill/hill.md",
-          "id": "038036e5e11b467493c323922d15cdcf"
+          "title": "taco",
+          "type": "instruction",
+          "path": "instruction/taco/taco.md",
+          "id": "fa502924283a40ddb88139d3c51ea9ef"
+        },
+        {
+          "title": "rat",
+          "type": "instruction",
+          "path": "instruction/rat/rat.md",
+          "id": "28edb3469102499f9883c97d25bf21e2"
         },
         {
           "title": "pickels",
@@ -57,6 +51,12 @@
           "type": "instruction",
           "path": "instruction/mouse/mouse.md",
           "id": "0965e0013e344213baf14af19ffa9973"
+        },
+        {
+          "title": "hill",
+          "type": "project",
+          "path": "instruction/hill/hill.md",
+          "id": "038036e5e11b467493c323922d15cdcf"
         }
       ]
     },
