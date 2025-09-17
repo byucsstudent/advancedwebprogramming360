@@ -102,6 +102,12 @@
           "type": "instruction",
           "path": "instruction/music/music.md",
           "id": "61462ca6ad124cd990ae0676792d9613"
+        },
+        {
+          "title": "drama",
+          "type": "instruction",
+          "path": "instruction/drama/drama.md",
+          "id": "ad8caf5ef5404125ab95b3f5f0a6f3bf"
         }
       ]
     }
