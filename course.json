@@ -13,14 +13,14 @@
           "id": "3384677c4b7c47b1a40402c63ed07db8"
         },
         {
-          "title": "Home",
-          "path": "README.md",
-          "id": "330b3872aab6442fac17c6730d7502ed"
-        },
-        {
           "title": "Schedule",
           "path": "schedule/schedule.md",
           "id": "33398bdff38f40108c07a336314519d4"
+        },
+        {
+          "title": "Home",
+          "path": "README.md",
+          "id": "330b3872aab6442fac17c6730d7502ed"
         },
         {
           "title": "fish",
