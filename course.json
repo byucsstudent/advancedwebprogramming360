@@ -35,16 +35,16 @@
           "id": "65b8b472269a44f3959b91c88a2aabeb"
         },
         {
-          "title": "pickels",
-          "type": "instruction",
-          "path": "instruction/pickels/pickels.md",
-          "id": "18ae5021f15a410da6a9aa9372d7df88"
-        },
-        {
           "title": "taco",
           "type": "instruction",
           "path": "instruction/taco/taco.md",
           "id": "fa502924283a40ddb88139d3c51ea9ef"
+        },
+        {
+          "title": "pickels",
+          "type": "instruction",
+          "path": "instruction/pickels/pickels.md",
+          "id": "18ae5021f15a410da6a9aa9372d7df88"
         },
         {
           "title": "mouse",
