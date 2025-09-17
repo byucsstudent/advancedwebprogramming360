@@ -41,6 +41,12 @@
           "id": "65b8b472269a44f3959b91c88a2aabeb"
         },
         {
+          "title": "hill",
+          "type": "project",
+          "path": "instruction/hill/hill.md",
+          "id": "038036e5e11b467493c323922d15cdcf"
+        },
+        {
           "title": "pickels",
           "type": "instruction",
           "path": "instruction/pickels/pickels.md",
@@ -51,12 +57,6 @@
           "type": "instruction",
           "path": "instruction/mouse/mouse.md",
           "id": "0965e0013e344213baf14af19ffa9973"
-        },
-        {
-          "title": "hill",
-          "type": "project",
-          "path": "instruction/hill/hill.md",
-          "id": "038036e5e11b467493c323922d15cdcf"
         }
       ]
     },
