@@ -63,6 +63,12 @@
           "type": "instruction",
           "path": "instruction/mouse/mouse.md",
           "id": "0965e0013e344213baf14af19ffa9973"
+        },
+        {
+          "title": "hill",
+          "type": "project",
+          "path": "instruction/hill/hill.md",
+          "id": "038036e5e11b467493c323922d15cdcf"
         }
       ]
     },
