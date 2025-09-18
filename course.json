@@ -53,6 +53,12 @@
           "type": "quiz",
           "path": "instruction/puffy/puffy.md",
           "id": "cfbaea7f0140429e861338f819782fb4"
+        },
+        {
+          "title": "fishtaco",
+          "type": "instruction",
+          "path": "instruction/fishtaco/fishtaco.md",
+          "id": "84b8434ed2d942a0a93e4a5ab920f505"
         }
       ]
     },
