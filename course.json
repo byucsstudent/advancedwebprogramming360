@@ -172,6 +172,12 @@
           "type": "instruction",
           "path": "instruction/push-up-the-snow/push-up-the-snow.md",
           "id": "2259fbbed9d844bbbfa46e7bd6bceb30"
+        },
+        {
+          "title": "video killed the radio star",
+          "type": "video",
+          "path": "instruction/video-killed-the-radio-star/video-killed-the-radio-star.md",
+          "id": "b10afb8d87f64f588f820f3c32ed3f3d"
         }
       ]
     }
