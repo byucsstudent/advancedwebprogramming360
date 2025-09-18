@@ -8,6 +8,12 @@
       "title": "Course info",
       "topics": [
         {
+          "title": "Home",
+          "type": "video",
+          "path": "README.md",
+          "id": "330b3872aab6442fac17c6730d7502ed"
+        },
+        {
           "title": "Schedulex",
           "type": "project",
           "path": "schedule/schedule.md",
@@ -58,12 +64,6 @@
           "type": "instruction",
           "path": "instruction/music/music.md",
           "id": "61462ca6ad124cd990ae0676792d9613"
-        },
-        {
-          "title": "Home",
-          "type": "video",
-          "path": "README.md",
-          "id": "330b3872aab6442fac17c6730d7502ed"
         },
         {
           "title": "hill",
