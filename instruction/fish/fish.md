@@ -1,11 +1,9 @@
 # fish
 
-## Overview
+## Video Content
 
-Content for fish goes here.
+[Add video link or embed here]
 
-## Key Concepts
+## Summary
 
-- Concept 1
-- Concept 2
-- Concept 3
+Summary of the video content goes here.
