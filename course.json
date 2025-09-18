@@ -115,6 +115,12 @@
           "type": "instruction",
           "path": "instruction/paper/paper.md",
           "id": "a3cfe4b98d144a2e87c45433f27f2bfa"
+        },
+        {
+          "title": "buggy",
+          "type": "instruction",
+          "path": "instruction/buggy/buggy.md",
+          "id": "0a155b85fa1743489d6e1b961cb063c9"
         }
       ]
     }
