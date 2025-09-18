@@ -109,7 +109,14 @@
     },
     {
       "title": "bugs",
-      "topics": []
+      "topics": [
+        {
+          "title": "paper",
+          "type": "instruction",
+          "path": "instruction/paper/paper.md",
+          "id": "a3cfe4b98d144a2e87c45433f27f2bfa"
+        }
+      ]
     }
   ]
 }
