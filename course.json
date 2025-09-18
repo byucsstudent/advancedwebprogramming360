@@ -143,6 +143,12 @@
           "type": "instruction",
           "path": "instruction/jojuxx/jojuxx.md",
           "id": "4d94b3ade73340e5a3f31757d4b90b56"
+        },
+        {
+          "title": "bubbybottle on show",
+          "type": "instruction",
+          "path": "instruction/bubbybottle-on-show/bubbybottle-on-show.md",
+          "id": "892b705ad2e3445db31bb46e186984b4"
         }
       ]
     },
