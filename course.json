@@ -21,7 +21,7 @@
         },
         {
           "title": "ratx",
-          "type": "instruction",
+          "type": "quiz",
           "path": "instruction/rat/rat.md",
           "id": "28edb3469102499f9883c97d25bf21e2"
         },
