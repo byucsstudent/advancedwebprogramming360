@@ -14,16 +14,16 @@
           "id": "65b8b472269a44f3959b91c88a2aabeb"
         },
         {
-          "title": "Schedule",
-          "type": "project",
-          "path": "schedule/schedule.md",
-          "id": "33398bdff38f40108c07a336314519d4"
-        },
-        {
           "title": "rat",
           "type": "instruction",
           "path": "instruction/rat/rat.md",
           "id": "28edb3469102499f9883c97d25bf21e2"
+        },
+        {
+          "title": "Schedule",
+          "type": "project",
+          "path": "schedule/schedule.md",
+          "id": "33398bdff38f40108c07a336314519d4"
         },
         {
           "title": "Syllabus",
