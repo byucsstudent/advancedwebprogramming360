@@ -47,6 +47,12 @@
           "type": "instruction",
           "path": "instruction/mouse/mouse.md",
           "id": "0965e0013e344213baf14af19ffa9973"
+        },
+        {
+          "title": "puffy",
+          "type": "quiz",
+          "path": "instruction/puffy/puffy.md",
+          "id": "cfbaea7f0140429e861338f819782fb4"
         }
       ]
     },
