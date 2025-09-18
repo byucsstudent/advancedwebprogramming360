@@ -37,12 +37,6 @@
           "id": "18ae5021f15a410da6a9aa9372d7df88"
         },
         {
-          "title": "sith",
-          "type": "instruction",
-          "path": "instruction/sith/sith.md",
-          "id": "bfa38cbc18b640c99b8cc549d8af1c53"
-        },
-        {
           "title": "mouse",
           "type": "instruction",
           "path": "instruction/mouse/mouse.md",
