@@ -1,4 +1,3 @@
-```markdown
 # Bicycles: Safe Bicycle Travel in a Suburban US City
 
 ## Overview
@@ -182,4 +181,3 @@ This course has explored the key factors in providing safe bicycle travel in a s
 *   **Continue to observe and analyze bicycle infrastructure in your area and identify areas for improvement.**
 
 By continuing to learn and engage, you can play a vital role in creating safer and more bicycle-friendly communities.
-```
