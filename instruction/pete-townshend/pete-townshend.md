@@ -1,4 +1,3 @@
-```markdown
 # Pete Townshend
 
 ## Course Overview
@@ -205,4 +204,3 @@ This course has provided an overview of the life, music, and legacy of Pete Town
 *   **Research other artists influenced by Pete Townshend:**  Explore the work of bands and musicians who have cited The Who as an influence.
 *   **Attend a live performance of The Who (if possible):**  Experience their music in a live setting.
 *   **Continue to explore the relationship between mental health and creativity:**  Read books, articles, and essays on this topic.
-```
