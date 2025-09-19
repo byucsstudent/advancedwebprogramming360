@@ -1,4 +1,4 @@
-# Mystery Topic
+# Fermi Paradox
 
 Let's explore an intriguing concept: **The Fermi Paradox**. It's a question that has captivated scientists, philosophers, and science fiction enthusiasts alike: If the universe is so vast and old, and statistically likely to harbor intelligent life, then where is everyone? Why haven't we detected any signs of extraterrestrial civilizations?
 
