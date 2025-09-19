@@ -132,14 +132,7 @@
     },
     {
       "title": "mod2",
-      "topics": [
-        {
-          "title": "fish",
-          "type": "video",
-          "path": "instruction/fish/fish.md",
-          "id": "d7e420e64c6b4cc2af2438dd6de50b0a"
-        }
-      ]
+      "topics": []
     },
     {
       "title": "fdfs",
