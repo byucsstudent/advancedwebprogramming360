@@ -59,6 +59,12 @@
           "type": "instruction",
           "path": "instruction/jojo/jojo.md",
           "id": "c81c671be07045ecbfb8b450167d39ba"
+        },
+        {
+          "title": "Pete Townshend",
+          "type": "instruction",
+          "path": "instruction/pete-townshend/pete-townshend.md",
+          "id": "a0a112a35d5e4e4f9b4dd91a148de14f"
         }
       ]
     },
