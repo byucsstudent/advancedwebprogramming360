@@ -144,6 +144,12 @@
           "type": "instruction",
           "path": "instruction/mystery-topic/mystery-topic.md",
           "id": "9c579dfa72f7447c8f14e38d916ef377"
+        },
+        {
+          "title": "Box video",
+          "type": "video",
+          "path": "https://youtu.be/PKiRH2ZKZeM?cb=1758296271558",
+          "id": "3f54102849c844f1a1ea3c591e4075ed"
         }
       ]
     },
