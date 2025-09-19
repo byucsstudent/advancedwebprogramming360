@@ -178,6 +178,12 @@
           "type": "video",
           "path": "https://youtu.be/PKiRH2ZKZeM",
           "id": "34df28be0bf24e6394f96617e085a70f"
+        },
+        {
+          "title": "React hooks",
+          "type": "instruction",
+          "path": "instruction/react-hooks/react-hooks.md",
+          "id": "b0c37fd40a8145b3ac59cc55737831f8"
         }
       ]
     }
