@@ -184,6 +184,12 @@
           "type": "instruction",
           "path": "instruction/react-hooks/react-hooks.md",
           "id": "b0c37fd40a8145b3ac59cc55737831f8"
+        },
+        {
+          "title": "Ball bearings",
+          "type": "instruction",
+          "path": "instruction/ball-bearings/ball-bearings.md",
+          "id": "870a1810ac4146a6bd58ccd88849e21c"
         }
       ]
     }
