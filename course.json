@@ -190,6 +190,12 @@
           "type": "instruction",
           "path": "instruction/ball-bearings/ball-bearings.md",
           "id": "870a1810ac4146a6bd58ccd88849e21c"
+        },
+        {
+          "title": "Bicycle safty",
+          "type": "instruction",
+          "path": "instruction/bicycle-safty/bicycle-safty.md",
+          "id": "5ee0fd77e011410f8aec26e366401e86"
         }
       ]
     }
