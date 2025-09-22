@@ -112,10 +112,10 @@
           "id": "3330b0df266449eadc8f4e9a1e966b6"
         },
         {
-          "title": "Cheese",
+          "title": "Cheese 2",
           "type": "instruction",
-          "path": "instruction/cheese/cheese.md",
-          "id": "e606bc57355f43db8ff3c28221900768"
+          "path": "instruction/cheese-2/cheese-2.md",
+          "id": "140d86ce9e9b4ce59fd095bb959c9df4"
         }
       ]
     },
