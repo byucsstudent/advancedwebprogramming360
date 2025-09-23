@@ -1,8 +1,8 @@
-# puffy 108
+# pickels
 
 ## Overview
 
-Content for jojo goes here.
+Content for pickels goes here.
 
 ## Key Concepts
 
