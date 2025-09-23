@@ -1,16 +1,11 @@
-# puffy102
+# pickels
 
-## Quiz
+## Overview
 
-### Question 1
+Content for pickels goes here.
 
-Your question here?
+## Key Concepts
 
-- [ ] Option A
-- [ ] Option B
-- [ ] Option C
-- [ ] Option D
-
-### Answer
-
-Correct answer and explanation.
+- Concept 1
+- Concept 2
+- Concept 3
