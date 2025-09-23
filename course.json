@@ -117,6 +117,12 @@
           "type": "instruction",
           "path": "instruction/cheese-2/cheese-2.md",
           "id": "140d86ce9e9b4ce59fd095bb959c9df4"
+        },
+        {
+          "title": "buffer overflows",
+          "type": "instruction",
+          "path": "instruction/buffer-overflows/buffer-overflows.md",
+          "id": "f8ba7a8bc0924193868eadc8a9605035"
         }
       ]
     },
