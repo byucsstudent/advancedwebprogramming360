@@ -1,11 +1,5 @@
 {
   "title": "Advanced Web Programming",
-  "description": "This is the heavy stuff!",
-  "name": "cs360",
-  "gitHub": {
-    "account": "leesjensen",
-    "repository": "advancedwebprogramming360"
-  },
   "schedule": "schedule/schedule.md",
   "syllabus": "instruction/syllabus/syllabus.md",
   "links": {},
