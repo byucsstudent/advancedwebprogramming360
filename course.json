@@ -52,7 +52,8 @@
           "title": "puffy",
           "type": "quiz",
           "path": "instruction/puffy/puffy.md",
-          "id": "cfbaea7f0140429e861338f819782fb4"
+          "id": "cfbaea7f0140429e861338f819782fb4",
+          "commit": "c06e57fe1e9eac4b25de0f19dc5a4299227a218c"
         },
         {
           "title": "jojo",
