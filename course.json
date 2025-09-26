@@ -59,7 +59,8 @@
           "title": "jojo",
           "type": "instruction",
           "path": "instruction/jojo/jojo.md",
-          "id": "c81c671be07045ecbfb8b450167d39ba"
+          "id": "c81c671be07045ecbfb8b450167d39ba",
+          "commit": "c1099b785ad4c32c4289e0367900d38760a3711a"
         },
         {
           "title": "Pete Townshend",
