@@ -94,7 +94,8 @@
           "title": "paper",
           "type": "instruction",
           "path": "instruction/paper/paper.md",
-          "id": "a3cfe4b98d144a2e87c45433f27f2bfa"
+          "id": "a3cfe4b98d144a2e87c45433f27f2bfa",
+          "commit": "13059fdbcb4f7a0d0ff40e1302aad2df7b2c20bc"
         },
         {
           "title": "buggy",
