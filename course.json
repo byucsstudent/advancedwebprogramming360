@@ -1,5 +1,5 @@
 {
-  "title": "Advanced Web Programming",
+  "title": "Feature demo",
   "schedule": "schedule/schedule.md",
   "syllabus": "instruction/syllabus/syllabus.md",
   "links": {},
@@ -19,6 +19,13 @@
           "type": "project",
           "path": "schedule/schedule.md",
           "id": "33398bdff38f40108c07a336314519d4"
+        },
+        {
+          "title": "Example quiz",
+          "type": "quiz",
+          "path": "instruction/exampleQuiz/exampleQuiz.md",
+          "id": "33ccbb16c3e243d39c8d1b0f3b64d52e",
+          "commit": "eefe673bcd08f8375e400bd753fb9d9349d7d927"
         },
         {
           "title": "fishy",
@@ -85,13 +92,6 @@
           "type": "project",
           "path": "instruction/hill/hill.md",
           "id": "038036e5e11b467493c323922d15cdcf"
-        },
-        {
-          "title": "Example quiz",
-          "type": "quiz",
-          "path": "instruction/exampleQuiz/exampleQuiz.md",
-          "id": "33ccbb16c3e243d39c8d1b0f3b64d52e",
-          "commit": "eefe673bcd08f8375e400bd753fb9d9349d7d927"
         },
         {
           "title": "☑ Introduction",
