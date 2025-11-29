@@ -142,12 +142,6 @@
           "type": "instruction",
           "path": "instruction/bicycles/bicycles.md",
           "id": "4a4d2eba22cc4145875e1fe8d01124a4"
-        },
-        {
-          "title": "bubbybottle on show",
-          "type": "instruction",
-          "path": "instruction/bubbybottle-on-show/bubbybottle-on-show.md",
-          "id": "892b705ad2e3445db31bb46e186984b4"
         }
       ]
     },
