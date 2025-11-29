@@ -64,13 +64,6 @@
           "commit": "7b5a11c4f1ee299c814e4366565d810d6f02a23c"
         },
         {
-          "title": "jojo",
-          "type": "instruction",
-          "path": "instruction/jojo/jojo.md",
-          "id": "c81c671be07045ecbfb8b450167d39ba",
-          "commit": "c1099b785ad4c32c4289e0367900d38760a3711a"
-        },
-        {
           "title": "Pete Townshend",
           "type": "instruction",
           "path": "instruction/pete-townshend/pete-townshend.md",
