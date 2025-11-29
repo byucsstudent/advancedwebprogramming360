@@ -90,12 +90,6 @@
       "title": "Getting started",
       "topics": [
         {
-          "title": "hill",
-          "type": "project",
-          "path": "instruction/hill/hill.md",
-          "id": "038036e5e11b467493c323922d15cdcf"
-        },
-        {
           "title": "☑ Introduction",
           "path": "instruction/introduction/introduction.md",
           "id": "339990d2454747d6a7d8da1c57825e1f"
