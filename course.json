@@ -34,12 +34,6 @@
           "id": "65b8b472269a44f3959b91c88a2aabeb"
         },
         {
-          "title": "ratx",
-          "type": "quiz",
-          "path": "instruction/rat/rat.md",
-          "id": "28edb3469102499f9883c97d25bf21e2"
-        },
-        {
           "title": "Syllabus",
           "path": "instruction/syllabus/syllabus.md",
           "id": "3384677c4b7c47b1a40402c63ed07db8"
