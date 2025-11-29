@@ -150,16 +150,16 @@
           "id": "892b705ad2e3445db31bb46e186984b4"
         },
         {
-          "title": "fiddle sticks",
-          "type": "instruction",
-          "path": "instruction/fiddle-sticks/fiddle-sticks.md",
-          "id": "d177cc4aba324c07aed1f8b01e271215"
-        },
-        {
           "title": "Bicycles",
           "type": "instruction",
           "path": "instruction/bicycles/bicycles.md",
           "id": "4a4d2eba22cc4145875e1fe8d01124a4"
+        },
+        {
+          "title": "fiddle sticks",
+          "type": "instruction",
+          "path": "instruction/fiddle-sticks/fiddle-sticks.md",
+          "id": "d177cc4aba324c07aed1f8b01e271215"
         },
         {
           "title": "baby baby baby",
