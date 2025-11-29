@@ -188,7 +188,8 @@
           "type": "instruction",
           "path": "instruction/tacos/tacos.md",
           "id": "44c3bbdd-22ac-42af-82f5-2394cea6ed42",
-          "description": ""
+          "description": "",
+          "commit": "11655a02de5568d9d0a716b9fec7aa489c691bc4"
         }
       ]
     }
