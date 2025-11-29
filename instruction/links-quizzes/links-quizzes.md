@@ -1,17 +1,43 @@
 
 ## Links
 
-![5364369960152892216.jpg](5364369960152892216.jpg)
-
-![favicon-32x32.png](favicon-32x32.png)
-
-![apple-touch-icon.png](apple-touch-icon.png)
 
 [Main.java](Main.java)
 
 [Cow](../cow/cow.md)
 
 [Other course](/course/51a72d23-50ab-4147-a1db-27a062aed771/topic/330b3872aab6442fac17c6730d7502ed)
+
+## Media
+
+### Different image types
+
+![5364369960152892216.jpg](5364369960152892216.jpg)
+
+![favicon-32x32.png](favicon-32x32.png)
+
+![apple-touch-icon.png](apple-touch-icon.png)
+
+
+
+### Trance
+<audio controls>
+  <source src="audio.mp3" type="audio/mp3">
+  Your browser does not support the audio tag.
+</audio>
+
+
+### Clapping
+<audio controls>
+  <source src="clapping.mp3" type="audio/mp3">
+  Your browser does not support the audio tag.
+</audio>
+
+### Nice streets
+<video controls width="100%">
+  <source src="sample-5s.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ## Quizzes
 
