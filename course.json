@@ -90,7 +90,8 @@
           "title": "Example quiz",
           "type": "quiz",
           "path": "instruction/exampleQuiz/exampleQuiz.md",
-          "id": "33ccbb16c3e243d39c8d1b0f3b64d52e"
+          "id": "33ccbb16c3e243d39c8d1b0f3b64d52e",
+          "commit": "eefe673bcd08f8375e400bd753fb9d9349d7d927"
         },
         {
           "title": "☑ Introduction",
