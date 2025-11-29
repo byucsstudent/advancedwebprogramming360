@@ -150,16 +150,16 @@
           "id": "4a4d2eba22cc4145875e1fe8d01124a4"
         },
         {
-          "title": "bubbybottle on show",
-          "type": "instruction",
-          "path": "instruction/bubbybottle-on-show/bubbybottle-on-show.md",
-          "id": "892b705ad2e3445db31bb46e186984b4"
-        },
-        {
           "title": "baby baby baby",
           "type": "quiz",
           "path": "instruction/baby-baby-baby/baby-baby-baby.md",
           "id": "93bcaf22d1fb4b358e34e009db5e882e"
+        },
+        {
+          "title": "bubbybottle on show",
+          "type": "instruction",
+          "path": "instruction/bubbybottle-on-show/bubbybottle-on-show.md",
+          "id": "892b705ad2e3445db31bb46e186984b4"
         },
         {
           "title": "fiddle sticks",
