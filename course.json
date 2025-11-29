@@ -57,13 +57,6 @@
           "id": "18ae5021f15a410da6a9aa9372d7df88"
         },
         {
-          "title": "puffy2",
-          "type": "quiz",
-          "path": "instruction/puffy/puffy.md",
-          "id": "cfbaea7f0140429e861338f819782fb4",
-          "commit": "7b5a11c4f1ee299c814e4366565d810d6f02a23c"
-        },
-        {
           "title": "Pete Townshend",
           "type": "instruction",
           "path": "instruction/pete-townshend/pete-townshend.md",
