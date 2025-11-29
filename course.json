@@ -109,6 +109,12 @@
       "title": "mod2",
       "topics": [
         {
+          "title": "React hooks",
+          "type": "instruction",
+          "path": "instruction/react-hooks/react-hooks.md",
+          "id": "b0c37fd40a8145b3ac59cc55737831f8"
+        },
+        {
           "title": "React useContext",
           "type": "instruction",
           "path": "instruction/react-usecontext/react-usecontext.md",
@@ -171,12 +177,6 @@
           "type": "instruction",
           "path": "instruction/push-up-the-snow/push-up-the-snow.md",
           "id": "2259fbbed9d844bbbfa46e7bd6bceb30"
-        },
-        {
-          "title": "React hooks",
-          "type": "instruction",
-          "path": "instruction/react-hooks/react-hooks.md",
-          "id": "b0c37fd40a8145b3ac59cc55737831f8"
         },
         {
           "title": "Ball bearings",
