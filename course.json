@@ -138,6 +138,12 @@
       "title": "fdfs",
       "topics": [
         {
+          "title": "fiddle sticks",
+          "type": "instruction",
+          "path": "instruction/fiddle-sticks/fiddle-sticks.md",
+          "id": "d177cc4aba324c07aed1f8b01e271215"
+        },
+        {
           "title": "jojuxx",
           "type": "instruction",
           "path": "instruction/jojuxx/jojuxx.md",
@@ -160,12 +166,6 @@
           "type": "instruction",
           "path": "instruction/bubbybottle-on-show/bubbybottle-on-show.md",
           "id": "892b705ad2e3445db31bb46e186984b4"
-        },
-        {
-          "title": "fiddle sticks",
-          "type": "instruction",
-          "path": "instruction/fiddle-sticks/fiddle-sticks.md",
-          "id": "d177cc4aba324c07aed1f8b01e271215"
         }
       ]
     },
