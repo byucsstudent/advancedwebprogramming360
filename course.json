@@ -182,7 +182,15 @@
     },
     {
       "title": "junk",
-      "topics": []
+      "topics": [
+        {
+          "title": "tacos",
+          "type": "instruction",
+          "path": "instruction/tacos/tacos.md",
+          "id": "44c3bbdd-22ac-42af-82f5-2394cea6ed42",
+          "description": ""
+        }
+      ]
     }
   ]
 }
