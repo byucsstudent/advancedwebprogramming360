@@ -92,17 +92,17 @@
       "title": "bugs",
       "topics": [
         {
+          "title": "buggy",
+          "type": "instruction",
+          "path": "instruction/buggy/buggy.md",
+          "id": "0a155b85fa1743489d6e1b961cb063c9"
+        },
+        {
           "title": "paper",
           "type": "instruction",
           "path": "instruction/paper/paper.md",
           "id": "a3cfe4b98d144a2e87c45433f27f2bfa",
           "commit": "4340140924f8c28abe2cee4e2e2d8fac9d4d56ca"
-        },
-        {
-          "title": "buggy",
-          "type": "instruction",
-          "path": "instruction/buggy/buggy.md",
-          "id": "0a155b85fa1743489d6e1b961cb063c9"
         }
       ]
     },
