@@ -28,12 +28,6 @@
           "commit": "eefe673bcd08f8375e400bd753fb9d9349d7d927"
         },
         {
-          "title": "fishy",
-          "type": "quiz",
-          "path": "instruction/fish/fish.md",
-          "id": "65b8b472269a44f3959b91c88a2aabeb"
-        },
-        {
           "title": "Syllabus",
           "path": "instruction/syllabus/syllabus.md",
           "id": "3384677c4b7c47b1a40402c63ed07db8"
