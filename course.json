@@ -120,7 +120,8 @@
           "title": "React hooks",
           "type": "instruction",
           "path": "instruction/react-hooks/react-hooks.md",
-          "id": "b0c37fd40a8145b3ac59cc55737831f8"
+          "id": "b0c37fd40a8145b3ac59cc55737831f8",
+          "commit": "0cce68398b19a271d690c646fbc5d5f676eeb2cb"
         },
         {
           "title": "React useContext",
