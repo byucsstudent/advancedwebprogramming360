@@ -22,10 +22,11 @@
           "description": ""
         },
         {
-          "title": "Example quiz",
-          "type": "quiz",
+          "title": "Example exam",
+          "type": "exam",
           "path": "instruction/exampleQuiz/exampleQuiz.md",
           "id": "33ccbb16c3e243d39c8d1b0f3b64d52e",
+          "description": "",
           "commit": "eefe673bcd08f8375e400bd753fb9d9349d7d927"
         },
         {
