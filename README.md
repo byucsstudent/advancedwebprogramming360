@@ -2,7 +2,6 @@
 
 # Feature Demo
 
-![cover](coursecover.jpg?raw=true)
 ![masterylscover.jpg](masterylscover.jpg)
 ## Welcome
 
