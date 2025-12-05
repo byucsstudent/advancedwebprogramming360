@@ -6,7 +6,7 @@
 
 [Cow](./339990d2454747d6a7d8da1c57825e1f)
 
-[Other course](/course/51a72d23-50ab-4147-a1db-27a062aed771/topic/330b3872aab6442fac17c6730d7502ed)
+[Other course](/course/dd48e7ef-8b47-4d99-88df-1c0295ef1c29/topic/34cb25fc22994caa9a5e9cd1dc74eeca)
 
 ## Media
 
