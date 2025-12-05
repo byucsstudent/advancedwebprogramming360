@@ -12,4 +12,4 @@ The content for this course is represented by the following parts.
 
 - 📘 [Instruction](instruction/modules.md)
 - 📅 [Schedule](schedule/schedule.md)
-- 💯 Assignments, quizzes, and tests submitted through [Canvas](https://byu.instructure.com
+- 💯 Assignments, quizzes, and tests submitted through [Canvas](https://byu.instructure.com)
