@@ -22,7 +22,7 @@
           "description": ""
         },
         {
-          "title": "Example exam",
+          "title": "Exam",
           "type": "exam",
           "path": "instruction/exampleQuiz/exampleQuiz.md",
           "id": "33ccbb16c3e243d39c8d1b0f3b64d52e",
