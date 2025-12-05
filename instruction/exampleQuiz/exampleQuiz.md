@@ -3,28 +3,6 @@
 The following questions are designed to determine your mastery of implementing the Fibonacci sequence using JavaScript.
 
 ```masteryls
-{"id":"a3b2a9f8-25e3-4ca4-8cca-42f3eb20537e", "title":"Multiple select", "type":"multiple-select", "body": "A **multiple select** question can have multiple answers. Incorrect selections count against correct ones when calculating the correct percentage." }
-- [ ] This is **not** the right answer
-- [x] This is _the_ right answer
-- [ ] This is **not** the right answer
-- [x] Another right answer
-- [ ] This is **not** the right answer
-```
-
-```masteryls
-{"id":"25a5068d-4b97-4c7d-9936-cf97b426f87e", "title":"Essay", "type":"essay", "body":"Simple **essay** question" }
-```
-
-```masteryls
-{"id":"681edaf2-8c77-46cc-8014-f3ed1634b199", "title":"File submission", "type":"file-submission", "body":"Simple **submission** by file", "allowComment":true  }
-```
-
-```masteryls
-{"id":"76b87c04-6c7b-430e-9b04-aae522d571e2", "title":"URL submission", "type":"url-submission", "body":"Simple **submission** by url", "allowComment":true }
-```
-
-
-```masteryls
 {"id":"28241de3-d9e7-487c-bb59-48ca2b448d5a", "title":"Recursive Fibonacci - Base Cases", "type":"multiple-choice", "body":"Consider the following recursive JavaScript function for calculating the Fibonacci sequence:\n\n```javascript\nfunction fibonacciRecursive(n) {\n  // Base cases missing\n  return fibonacciRecursive(n - 1) + fibonacciRecursive(n - 2);\n}\n```\n\nWhat base cases are necessary to ensure the function terminates correctly and returns the proper Fibonacci numbers for `n = 0` and `n = 1`?" }
 - [ ] `if (n === 0) return 1; if (n === 1) return 1;`
 - [x] `if (n === 0) return 0; if (n === 1) return 1;`
