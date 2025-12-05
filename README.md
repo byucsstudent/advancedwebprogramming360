@@ -3,7 +3,7 @@
 # Feature Demo
 
 ![cover](coursecover.jpg?raw=true)
-
+![masterylscover.jpg](masterylscover.jpg)
 ## Welcome
 
 Demonstartion course of Mastery LS features
