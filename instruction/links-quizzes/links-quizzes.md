@@ -4,9 +4,9 @@
 
 [Main.java](Main.java)
 
-[Cow](./339990d2454747d6a7d8da1c57825e1f)
+[Other topic - Cheese 2](./339990d2454747d6a7d8da1c57825e1f)
 
-[Other course](/course/dd48e7ef-8b47-4d99-88df-1c0295ef1c29/topic/34cb25fc22994caa9a5e9cd1dc74eeca)
+[Other course - v50/cow](/course/dd48e7ef-8b47-4d99-88df-1c0295ef1c29/topic/6415a059d5524f5c8727599b69cb5a5a)
 
 ## Media
 
