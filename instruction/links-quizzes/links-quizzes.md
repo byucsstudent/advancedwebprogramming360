@@ -6,7 +6,7 @@
 
 [Other topic by ID - Cheese 2](./140d86ce9e9b4ce59fd095bb959c9df4)
 
-[Other topic by Path - Cheese 2](../cheese-2/cheese-2.md)
+[Other topic by Path - Cheese 2](../home/home.md)
 
 [Other topic by Path to other module - Cheese 2](../cheese-2/cheese-2.md)
 
