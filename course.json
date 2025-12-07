@@ -15,6 +15,14 @@
           "commit": "637cc8a63a9cf465864159b75df57b3b76aac50e"
         },
         {
+          "title": "links & quizzes",
+          "type": "instruction",
+          "path": "instruction/links-quizzes/links-quizzes.md",
+          "id": "b6c7df2a-699f-43a8-8508-08630dcc5cc6",
+          "description": "",
+          "commit": "bfb531c696f03b8bf0ae0ffb9159f19583f5e09b"
+        },
+        {
           "title": "Schedule",
           "type": "instruction",
           "path": "schedule/schedule.md",
@@ -28,14 +36,6 @@
           "id": "33ccbb16c3e243d39c8d1b0f3b64d52e",
           "description": "",
           "commit": "43b4ac60b391ba782b4b47221bdf443d17bfe6af"
-        },
-        {
-          "title": "links & quizzes",
-          "type": "instruction",
-          "path": "instruction/links-quizzes/links-quizzes.md",
-          "id": "b6c7df2a-699f-43a8-8508-08630dcc5cc6",
-          "description": "",
-          "commit": "bfb531c696f03b8bf0ae0ffb9159f19583f5e09b"
         },
         {
           "title": "Syllabus",
