@@ -15,6 +15,12 @@
           "commit": "37d72f2073b0ebff19973ee701362edd41bba2a3"
         },
         {
+          "title": "Cheese 2",
+          "type": "instruction",
+          "path": "instruction/cheese-2/cheese-2.md",
+          "id": "140d86ce9e9b4ce59fd095bb959c9df4"
+        },
+        {
           "title": "links & quizzes",
           "type": "instruction",
           "path": "instruction/links-quizzes/links-quizzes.md",
@@ -47,12 +53,6 @@
           "id": "33ccbb16c3e243d39c8d1b0f3b64d52e",
           "description": "",
           "commit": "43b4ac60b391ba782b4b47221bdf443d17bfe6af"
-        },
-        {
-          "title": "Cheese 2",
-          "type": "instruction",
-          "path": "instruction/cheese-2/cheese-2.md",
-          "id": "140d86ce9e9b4ce59fd095bb959c9df4"
         },
         {
           "title": "☑ Introduction",
