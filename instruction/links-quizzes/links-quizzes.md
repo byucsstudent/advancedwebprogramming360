@@ -4,7 +4,7 @@
 
 [Topic file - Main.java](Main.java)
 
-[Other topic by ID - Cheese 2](./140d86ce9e9b4ce59fd095bb959c9df4)
+[Other topic by ID - Cheese 2](./330b3872aab6442fac17c6730d7502ed)
 
 [Other topic by Path - Cheese 2](../home/home.md)
 
