@@ -4,9 +4,9 @@
 
 [Topic file - Main.java](Main.java)
 
-[Other topic by ID - Cheese 2](./330b3872aab6442fac17c6730d7502ed)
+[Other topic by ID - Home](./330b3872aab6442fac17c6730d7502ed)
 
-[Other topic by Path - Cheese 2](../../home/home.md)
+[Other topic by Path - Home](../../home/home.md)
 
 [Other topic by Path to other module - Cheese 2](../cheese-2/cheese-2.md)
 
