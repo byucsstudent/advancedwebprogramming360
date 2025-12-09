@@ -23,13 +23,6 @@
           "commit": "bfb531c696f03b8bf0ae0ffb9159f19583f5e09b"
         },
         {
-          "title": "Schedule",
-          "type": "instruction",
-          "path": "schedule/schedule.md",
-          "id": "33398bdff38f40108c07a336314519d4",
-          "description": ""
-        },
-        {
           "title": "Exam",
           "type": "exam",
           "path": "instruction/exampleQuiz/exampleQuiz.md",
@@ -48,6 +41,13 @@
     {
       "title": "Getting started",
       "topics": [
+        {
+          "title": "Schedule",
+          "type": "instruction",
+          "path": "schedule/schedule.md",
+          "id": "33398bdff38f40108c07a336314519d4",
+          "description": ""
+        },
         {
           "title": "Cheese 2",
           "type": "instruction",
