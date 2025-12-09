@@ -1,6 +1,24 @@
 
 ## Links
 
+readme.md - Home
+instruction
+     links-quizzes - links & quizzes
+          links-quizzes.md
+          Main.java
+
+## Absolute URL: open in new tab.
+- [https://cow.com](https://cow.com)
+
+## Root-relative URL: Different course and topic.
+- [/course/abc/topic/def](/course/abc/topic/def)
+
+## Relative URL: either a topic or a resource of a topic in the current course.
+- [./330b3872aab6442fac17c6730d7502ed](./330b3872aab6442fac17c6730d7502ed) - lookup up topic by GUID
+- [Main.java](./Main.java) - resource in current topic
+- [./Main.java](./Main.java) - resource in current topic
+- [../simon/simon.md](../simon/simon.md)
+- [../../readme.md](../../readme.md)
 
 [Topic file - Main.java](Main.java)
 
