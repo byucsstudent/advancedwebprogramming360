@@ -16,7 +16,7 @@
 
 ## Root-relative URL: course and topic.
 - [/course/51a72d23-50ab-4147-a1db-27a062aed771/topic/140d86ce9e9b4ce59fd095bb959c9df4](/course/51a72d23-50ab-4147-a1db-27a062aed771/topic/140d86ce9e9b4ce59fd095bb959c9df4) - this course
-- [/course/dd48e7ef-8b47-4d99-88df-1c0295ef1c29/topic/6415a059d5524f5c872) - other course
+- [/course/dd48e7ef-8b47-4d99-88df-1c0295ef1c29/topic/6415a059d5524f5c872](/course/dd48e7ef-8b47-4d99-88df-1c0295ef1c29/topic/6415a059d5524f5c872) - other course
 
 ## Relative URL: either a topic or a resource of a topic in the current course.
 - [Main.java](./Main.java) - resource in current topic
