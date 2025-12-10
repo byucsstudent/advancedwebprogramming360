@@ -128,37 +128,55 @@
     },
     {
       "title": "bugs",
+      "externalRefs": {
+        "canvasModuleId": 361081
+      },
       "topics": [
         {
           "title": "buggy",
           "type": "instruction",
           "path": "instruction/buggy/buggy.md",
-          "id": "0a155b85fa1743489d6e1b961cb063c9"
+          "id": "0a155b85fa1743489d6e1b961cb063c9",
+          "externalRefs": {
+            "canvasPageId": 1470314
+          }
         },
         {
           "title": "Box video",
           "type": "video",
           "path": "https://youtu.be/PKiRH2ZKZeM?cb=1758296271558",
-          "id": "3f54102849c844f1a1ea3c591e4075ed"
+          "id": "3f54102849c844f1a1ea3c591e4075ed",
+          "externalRefs": {
+            "canvasPageId": 1470315
+          }
         },
         {
           "title": "Pete Townshend",
           "type": "instruction",
           "path": "instruction/pete-townshend/pete-townshend.md",
-          "id": "a0a112a35d5e4e4f9b4dd91a148de14f"
+          "id": "a0a112a35d5e4e4f9b4dd91a148de14f",
+          "externalRefs": {
+            "canvasPageId": 1470316
+          }
         },
         {
           "title": "Fermi paradox",
           "type": "instruction",
           "path": "instruction/mystery-topic/mystery-topic.md",
-          "id": "9c579dfa72f7447c8f14e38d916ef377"
+          "id": "9c579dfa72f7447c8f14e38d916ef377",
+          "externalRefs": {
+            "canvasPageId": 1470317
+          }
         },
         {
           "title": "paper",
           "type": "instruction",
           "path": "instruction/paper/paper.md",
           "id": "a3cfe4b98d144a2e87c45433f27f2bfa",
-          "commit": "4340140924f8c28abe2cee4e2e2d8fac9d4d56ca"
+          "commit": "4340140924f8c28abe2cee4e2e2d8fac9d4d56ca",
+          "externalRefs": {
+            "canvasPageId": 1470318
+          }
         }
       ]
     },
