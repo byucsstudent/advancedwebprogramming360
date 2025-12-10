@@ -226,18 +226,27 @@
     },
     {
       "title": "f",
+      "externalRefs": {
+        "canvasModuleId": 361084
+      },
       "topics": [
         {
           "title": "Ball bearings",
           "type": "instruction",
           "path": "instruction/ball-bearings/ball-bearings.md",
-          "id": "870a1810ac4146a6bd58ccd88849e21c"
+          "id": "870a1810ac4146a6bd58ccd88849e21c",
+          "externalRefs": {
+            "canvasPageId": 1470322
+          }
         },
         {
           "title": "Mental health",
           "type": "instruction",
           "path": "instruction/mental-health/mental-health.md",
-          "id": "6eac550008be4d3b84fc17dd8b790035"
+          "id": "6eac550008be4d3b84fc17dd8b790035",
+          "externalRefs": {
+            "canvasPageId": 1470323
+          }
         }
       ]
     },
