@@ -182,19 +182,28 @@
     },
     {
       "title": "mod2",
+      "externalRefs": {
+        "canvasModuleId": 361082
+      },
       "topics": [
         {
           "title": "React hooks",
           "type": "instruction",
           "path": "instruction/react-hooks/react-hooks.md",
           "id": "b0c37fd40a8145b3ac59cc55737831f8",
-          "commit": "0cce68398b19a271d690c646fbc5d5f676eeb2cb"
+          "commit": "0cce68398b19a271d690c646fbc5d5f676eeb2cb",
+          "externalRefs": {
+            "canvasPageId": 1470319
+          }
         },
         {
           "title": "React useContext",
           "type": "instruction",
           "path": "instruction/react-usecontext/react-usecontext.md",
-          "id": "045a285e6d22421db93f626f640808e5"
+          "id": "045a285e6d22421db93f626f640808e5",
+          "externalRefs": {
+            "canvasPageId": 1470320
+          }
         }
       ]
     },
