@@ -15,14 +15,14 @@
 - [https://cow.com](https://cow.com)
 
 ## Root-relative URL: course and topic.
-- [/course/abc/topic/def](/course/abc/topic/def)
-- [/course/51a72d23-50ab-4147-a1db-27a062aed771/topic/330b3872aab6442fac17c6730d7502ed](./330b3872aab6442fac17c6730d7502ed) - lookup up topic by GUID
+- [/course/51a72d23-50ab-4147-a1db-27a062aed771/topic/140d86ce9e9b4ce59fd095bb959c9df4](/course/51a72d23-50ab-4147-a1db-27a062aed771/topic/140d86ce9e9b4ce59fd095bb959c9df4) - this course
+- [/course/abc/topic/def](/course/abc/topic/def) - other course
 
 ## Relative URL: either a topic or a resource of a topic in the current course.
 - [Main.java](./Main.java) - resource in current topic
 - [./Main.java](./Main.java) - resource in current topic
-- [../cheese-2/cheese-2.md](../cheese-2/cheese-2md)
-- [../../readme.md](../../readme.md)
+- [../cheese-2/cheese-2.md](../cheese-2/cheese-2md) - same parent topic folder
+- [../../readme.md](../../readme.md) - root folder
 
 [Topic file - Main.java](Main.java)
 
