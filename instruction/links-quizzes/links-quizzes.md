@@ -14,11 +14,11 @@
 ## Absolute URL: open in new tab.
 - [https://cow.com](https://cow.com)
 
-## Root-relative URL: Different course and topic.
+## Root-relative URL: course and topic.
 - [/course/abc/topic/def](/course/abc/topic/def)
+- [/course/51a72d23-50ab-4147-a1db-27a062aed771/topic/330b3872aab6442fac17c6730d7502ed](./330b3872aab6442fac17c6730d7502ed) - lookup up topic by GUID
 
 ## Relative URL: either a topic or a resource of a topic in the current course.
-- [./330b3872aab6442fac17c6730d7502ed](./330b3872aab6442fac17c6730d7502ed) - lookup up topic by GUID
 - [Main.java](./Main.java) - resource in current topic
 - [./Main.java](./Main.java) - resource in current topic
 - [../cheese-2/cheese-2.md](../cheese-2/cheese-2md)
