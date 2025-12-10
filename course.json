@@ -10,7 +10,7 @@
     {
       "title": "Course info",
       "externalRefs": {
-        "canvasModuleId": 360955
+        "canvasModuleId": 360956
       },
       "topics": [
         {
@@ -20,7 +20,7 @@
           "id": "330b3872aab6442fac17c6730d7502ed",
           "commit": "37d72f2073b0ebff19973ee701362edd41bba2a3",
           "externalRefs": {
-            "canvasPageId": 1469853
+            "canvasPageId": 1469858
           }
         },
         {
@@ -31,7 +31,7 @@
           "description": "",
           "commit": "38f2b488fb458bf638c724c742e65ae11846c76a",
           "externalRefs": {
-            "canvasPageId": 1469854
+            "canvasPageId": 1469859
           }
         },
         {
@@ -40,7 +40,7 @@
           "path": "instruction/cheese-2/cheese-2.md",
           "id": "140d86ce9e9b4ce59fd095bb959c9df4",
           "externalRefs": {
-            "canvasPageId": 1469855
+            "canvasPageId": 1469860
           }
         }
       ]
