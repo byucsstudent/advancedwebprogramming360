@@ -1,11 +1,15 @@
 
 ## Links
 
-readme.md - Home
-instruction
-     links-quizzes - links & quizzes
-          links-quizzes.md
-          Main.java
+```
+├ readme.md - Home
+└ instruction
+    ├  links-quizzes - links & quizzes - UUID: 330b3872aab6442fac17c6730d7502ed
+    │  ├ links-quizzes.md
+    │  └ Main.java
+    └  cheese-2
+       └ cheese-2.md
+```
 
 ## Absolute URL: open in new tab.
 - [https://cow.com](https://cow.com)
@@ -17,7 +21,7 @@ instruction
 - [./330b3872aab6442fac17c6730d7502ed](./330b3872aab6442fac17c6730d7502ed) - lookup up topic by GUID
 - [Main.java](./Main.java) - resource in current topic
 - [./Main.java](./Main.java) - resource in current topic
-- [../simon/simon.md](../simon/simon.md)
+- [../cheese-2/cheese-2.md](../cheese-2/cheese-2md)
 - [../../readme.md](../../readme.md)
 
 [Topic file - Main.java](Main.java)
