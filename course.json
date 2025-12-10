@@ -133,15 +133,6 @@
       },
       "topics": [
         {
-          "title": "buggy",
-          "type": "instruction",
-          "path": "instruction/buggy/buggy.md",
-          "id": "0a155b85fa1743489d6e1b961cb063c9",
-          "externalRefs": {
-            "canvasPageId": 1470415
-          }
-        },
-        {
           "title": "Box video",
           "type": "video",
           "path": "https://youtu.be/PKiRH2ZKZeM?cb=1758296271558",
