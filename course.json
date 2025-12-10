@@ -3,16 +3,25 @@
   "schedule": "schedule/schedule.md",
   "syllabus": "instruction/syllabus/syllabus.md",
   "links": {},
+  "externalRefs": {
+    "canvasCourseId": "33932"
+  },
   "modules": [
     {
       "title": "Course info",
+      "externalRefs": {
+        "canvasModuleId": 360955
+      },
       "topics": [
         {
           "title": "Home",
           "type": "instruction",
           "path": "README.md",
           "id": "330b3872aab6442fac17c6730d7502ed",
-          "commit": "37d72f2073b0ebff19973ee701362edd41bba2a3"
+          "commit": "37d72f2073b0ebff19973ee701362edd41bba2a3",
+          "externalRefs": {
+            "canvasPageId": 1469853
+          }
         },
         {
           "title": "links & quizzes",
@@ -20,13 +29,19 @@
           "path": "instruction/links-quizzes/links-quizzes.md",
           "id": "b6c7df2a-699f-43a8-8508-08630dcc5cc6",
           "description": "",
-          "commit": "38f2b488fb458bf638c724c742e65ae11846c76a"
+          "commit": "38f2b488fb458bf638c724c742e65ae11846c76a",
+          "externalRefs": {
+            "canvasPageId": 1469854
+          }
         },
         {
           "title": "Cheese 2",
           "type": "instruction",
           "path": "instruction/cheese-2/cheese-2.md",
-          "id": "140d86ce9e9b4ce59fd095bb959c9df4"
+          "id": "140d86ce9e9b4ce59fd095bb959c9df4",
+          "externalRefs": {
+            "canvasPageId": 1469855
+          }
         }
       ]
     },
