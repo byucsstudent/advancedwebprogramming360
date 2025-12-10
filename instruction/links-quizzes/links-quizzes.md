@@ -23,6 +23,7 @@
 - [./Main.java](./Main.java) - resource in current topic
 - [../cheese-2/cheese-2.md](../cheese-2/cheese-2.md) - same parent topic folder
 - [../../README.md](../../README.md) - root folder
+- [#quizzes](#quizzes) - anchor in this topic
 
 ## Media
 
