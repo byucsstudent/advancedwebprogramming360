@@ -209,12 +209,18 @@
     },
     {
       "title": "fdfs",
+      "externalRefs": {
+        "canvasModuleId": 361083
+      },
       "topics": [
         {
           "title": "Bicycles",
           "type": "instruction",
           "path": "instruction/bicycles/bicycles.md",
-          "id": "4a4d2eba22cc4145875e1fe8d01124a4"
+          "id": "4a4d2eba22cc4145875e1fe8d01124a4",
+          "externalRefs": {
+            "canvasPageId": 1470321
+          }
         }
       ]
     },
