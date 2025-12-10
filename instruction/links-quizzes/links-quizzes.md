@@ -21,7 +21,7 @@
 ## Relative URL: either a topic or a resource of a topic in the current course.
 - [Main.java](./Main.java) - resource in current topic
 - [./Main.java](./Main.java) - resource in current topic
-- [../cheese-2/cheese-2.md](../cheese-2/cheese-2md) - same parent topic folder
+- [../cheese-2/cheese-2.md](../cheese-2/cheese-2.md) - same parent topic folder
 - [../../readme.md](../../readme.md) - root folder
 
 [Topic file - Main.java](Main.java)
