@@ -4,11 +4,11 @@
 ```
 ├ readme.md - Home
 └ instruction
-    ├  links-quizzes - links & quizzes - UUID: 330b3872aab6442fac17c6730d7502ed
-    │  ├ links-quizzes.md
-    │  └ Main.java
-    └  cheese-2
-       └ cheese-2.md
+    ├ links-quizzes - links & quizzes - UUID: 330b3872aab6442fac17c6730d7502ed
+    │ ├ links-quizzes.md
+    │ └ Main.java
+    └ cheese-2
+      └ cheese-2.md
 ```
 
 ## Absolute URL: open in new tab.
