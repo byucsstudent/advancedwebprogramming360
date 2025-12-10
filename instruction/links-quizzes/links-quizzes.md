@@ -24,16 +24,6 @@
 - [../cheese-2/cheese-2.md](../cheese-2/cheese-2.md) - same parent topic folder
 - [../../README.md](../../README.md) - root folder
 
-[Topic file - Main.java](Main.java)
-
-[Other topic by ID - Home](./330b3872aab6442fac17c6730d7502ed)
-
-[Other topic by Path - Home](../../home.md)
-
-[Other topic by Path to other module - Cheese 2](../cheese-2/cheese-2.md)
-
-[Other course - v50/cow](/course/dd48e7ef-8b47-4d99-88df-1c0295ef1c29/topic/6415a059d5524f5c8727599b69cb5a5a)
-
 ## Media
 
 ### Different image types
