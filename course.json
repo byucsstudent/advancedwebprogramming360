@@ -142,6 +142,15 @@
           }
         },
         {
+          "title": "Fermi paradox",
+          "type": "instruction",
+          "path": "instruction/mystery-topic/mystery-topic.md",
+          "id": "9c579dfa72f7447c8f14e38d916ef377",
+          "externalRefs": {
+            "canvasPageId": 1470418
+          }
+        },
+        {
           "title": "React hooks",
           "type": "instruction",
           "path": "instruction/react-hooks/react-hooks.md",
@@ -158,15 +167,6 @@
           "id": "045a285e6d22421db93f626f640808e5",
           "externalRefs": {
             "canvasPageId": 1470421
-          }
-        },
-        {
-          "title": "Fermi paradox",
-          "type": "instruction",
-          "path": "instruction/mystery-topic/mystery-topic.md",
-          "id": "9c579dfa72f7447c8f14e38d916ef377",
-          "externalRefs": {
-            "canvasPageId": 1470418
           }
         }
       ]
