@@ -1,6 +1,4 @@
-# this is a project
-
-## Project: this is a project
+# Example project
 
 ### Objectives
 
