@@ -14,6 +14,16 @@
       },
       "topics": [
         {
+          "title": "Home",
+          "type": "instruction",
+          "path": "README.md",
+          "id": "330b3872aab6442fac17c6730d7502ed",
+          "commit": "d7ddfadc2823fb0bf52756f6af2083e7b87836b7",
+          "externalRefs": {
+            "canvasPageId": 1470404
+          }
+        },
+        {
           "title": "Syllabus",
           "path": "instruction/syllabus/syllabus.md",
           "id": "3384677c4b7c47b1a40402c63ed07db8",
@@ -30,16 +40,6 @@
           "description": "",
           "externalRefs": {
             "canvasPageId": 1470408
-          }
-        },
-        {
-          "title": "Home",
-          "type": "instruction",
-          "path": "README.md",
-          "id": "330b3872aab6442fac17c6730d7502ed",
-          "commit": "d7ddfadc2823fb0bf52756f6af2083e7b87836b7",
-          "externalRefs": {
-            "canvasPageId": 1470404
           }
         }
       ]
