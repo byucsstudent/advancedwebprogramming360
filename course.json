@@ -140,10 +140,11 @@
       },
       "topics": [
         {
-          "title": "Cheese 2",
+          "title": "Cheese",
           "type": "instruction",
           "path": "instruction/cheese-2/cheese-2.md",
           "id": "140d86ce9e9b4ce59fd095bb959c9df4",
+          "description": "",
           "externalRefs": {
             "canvasPageId": 1470406
           }
