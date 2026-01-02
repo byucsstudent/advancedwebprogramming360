@@ -178,6 +178,13 @@
           "externalRefs": {
             "canvasPageId": 1470421
           }
+        },
+        {
+          "title": "die",
+          "type": "instruction",
+          "path": "instruction/die/die.md",
+          "id": "2fdcaf1e-505f-445c-a627-4c50a75b0d70",
+          "description": ""
         }
       ]
     }
