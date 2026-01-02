@@ -1,5 +1,5 @@
 {
-  "title": "Feature demo",
+  "title": "MasteryLS Demo",
   "schedule": "schedule/schedule.md",
   "syllabus": "instruction/syllabus/syllabus.md",
   "links": {},
@@ -223,7 +223,7 @@
       ]
     },
     {
-      "title": "junk",
+      "title": "delete me",
       "externalRefs": {
         "canvasModuleId": 361110
       },
