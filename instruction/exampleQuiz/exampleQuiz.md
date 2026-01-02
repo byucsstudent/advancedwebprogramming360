@@ -1,4 +1,4 @@
-# Implementation Fibonacci Exam
+# Example exam
 
 The following questions are designed to determine your mastery of implementing the Fibonacci sequence using JavaScript.
 
