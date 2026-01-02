@@ -52,7 +52,7 @@
       },
       "topics": [
         {
-          "title": "Introduction",
+          "title": "Topic",
           "type": "instruction",
           "path": "instruction/introduction/introduction.md",
           "id": "339990d2454747d6a7d8da1c57825e1f",
