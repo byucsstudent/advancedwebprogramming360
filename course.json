@@ -62,6 +62,7 @@
           "title": "Example topic",
           "path": "instruction/exampleTopic/exampleTopic.md",
           "id": "33344322454747d6a7d8da1c57825e1f",
+          "commit": "3891f2fcc5087c57b404ff6613dd62c6c9257d42",
           "externalRefs": {
             "canvasPageId": 1470412
           }
