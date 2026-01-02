@@ -33,15 +33,6 @@
           "externalRefs": {
             "canvasPageId": 1470405
           }
-        },
-        {
-          "title": "Cheese 2",
-          "type": "instruction",
-          "path": "instruction/cheese-2/cheese-2.md",
-          "id": "140d86ce9e9b4ce59fd095bb959c9df4",
-          "externalRefs": {
-            "canvasPageId": 1470406
-          }
         }
       ]
     },
@@ -132,6 +123,15 @@
         "canvasModuleId": 361106
       },
       "topics": [
+        {
+          "title": "Cheese 2",
+          "type": "instruction",
+          "path": "instruction/cheese-2/cheese-2.md",
+          "id": "140d86ce9e9b4ce59fd095bb959c9df4",
+          "externalRefs": {
+            "canvasPageId": 1470406
+          }
+        },
         {
           "title": "Box video",
           "type": "video",
