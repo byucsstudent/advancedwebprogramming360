@@ -183,15 +183,7 @@
     },
     {
       "title": "fsdfs",
-      "topics": [
-        {
-          "title": "fdsf",
-          "type": "instruction",
-          "path": "instruction/fdsf/fdsf.md",
-          "id": "9e6c4b17-507b-421e-abdd-ea94ebe83fd0",
-          "description": ""
-        }
-      ]
+      "topics": []
     }
   ]
 }
