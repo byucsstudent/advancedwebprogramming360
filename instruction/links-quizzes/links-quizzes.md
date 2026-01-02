@@ -4,9 +4,9 @@
 ```
 ├ readme.md - Home
 ├ Examples
-│    ├ Example links - UUID: 330b3872aab6442fac17c6730d7502ed
-│    │ ├ links-quizzes.md
-│   │ └ Main.java
+│ ├ Example links - UUID: 330b3872aab6442fac17c6730d7502ed
+│ ├ links-quizzes.md
+│ └ Main.java
 └  Assorted topics
     └ cheese-2
       └ cheese-2.md
