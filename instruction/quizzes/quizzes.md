@@ -21,6 +21,12 @@
 - [ ] This is **not** the right answer
 ```
 
+
+```masteryls
+{"id":"b1de730b-9331-4e2f-8c7b-b8ff66a51a03", "title":"Socratic method", "type":"teaching", "question":"Help me understand the **Socratic method**." }
+```
+
+
 ```masteryls
 {"id":"25a5068d-4b97-4c7d-9936-cf97b426f87e", "title":"Essay", "type":"essay", "body":"Simple **essay** question" }
 ```
