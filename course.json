@@ -72,6 +72,13 @@
           }
         },
         {
+          "title": "Links",
+          "type": "instruction",
+          "path": "instruction/example-links/example-links.md",
+          "id": "c84f4f2e-2ecd-414a-bcfb-65cf10516e77",
+          "description": ""
+        },
+        {
           "title": "Media",
           "type": "instruction",
           "path": "instruction/links-quizzes/links-quizzes.md",
@@ -121,13 +128,6 @@
           "externalRefs": {
             "canvasPageId": 1470411
           }
-        },
-        {
-          "title": "Links",
-          "type": "instruction",
-          "path": "instruction/example-links/example-links.md",
-          "id": "c84f4f2e-2ecd-414a-bcfb-65cf10516e77",
-          "description": ""
         }
       ]
     },
