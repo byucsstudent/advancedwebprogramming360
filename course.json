@@ -183,15 +183,7 @@
     },
     {
       "title": "tacos",
-      "topics": [
-        {
-          "title": "fish",
-          "type": "instruction",
-          "path": "instruction/fish/fish.md",
-          "id": "7a901068-1567-4efd-a027-a66701193e40",
-          "description": ""
-        }
-      ]
+      "topics": []
     }
   ]
 }
