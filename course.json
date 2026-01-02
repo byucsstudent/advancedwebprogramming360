@@ -180,13 +180,6 @@
           }
         }
       ]
-    },
-    {
-      "title": "delete me",
-      "externalRefs": {
-        "canvasModuleId": 361110
-      },
-      "topics": []
     }
   ]
 }
