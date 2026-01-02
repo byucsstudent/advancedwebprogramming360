@@ -5,7 +5,7 @@
 ![masterylscover.jpg](masterylscover.jpg)
 ## Welcome
 
-Demonstartion course of Mastery LS features
+Demonstration course of Mastery LS features
 
 The content for this course is represented by the following parts.
 
