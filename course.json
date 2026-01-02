@@ -81,6 +81,14 @@
           }
         },
         {
+          "title": "Example quiz",
+          "type": "instruction",
+          "path": "instruction/quizzes/quizzes.md",
+          "id": "3a6127b6-eb69-4fb9-bb09-b45d6f8a39d8",
+          "description": "",
+          "commit": "679d88c2d4241cb2e802558a8da0658b27ec15e0"
+        },
+        {
           "title": "Example exam",
           "type": "exam",
           "path": "instruction/exampleQuiz/exampleQuiz.md",
@@ -99,14 +107,6 @@
           "externalRefs": {
             "canvasPageId": 1470414
           }
-        },
-        {
-          "title": "Example quiz",
-          "type": "instruction",
-          "path": "instruction/quizzes/quizzes.md",
-          "id": "3a6127b6-eb69-4fb9-bb09-b45d6f8a39d8",
-          "description": "",
-          "commit": "679d88c2d4241cb2e802558a8da0658b27ec15e0"
         },
         {
           "title": "Example project",
