@@ -17,7 +17,7 @@
 ```
 
 ## Absolute URL: open in new tab
-- [https://cow.com](https://cow.com)
+- [https://byu.edu](https://byu.edu)
 
 ## Root-relative URL: course and topic
 - [/course/51a72d23-50ab-4147-a1db-27a062aed771/topic/140d86ce9e9b4ce59fd095bb959c9df4](/course/51a72d23-50ab-4147-a1db-27a062aed771/topic/140d86ce9e9b4ce59fd095bb959c9df4) - this course
