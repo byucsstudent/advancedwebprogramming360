@@ -1,4 +1,4 @@
-# Introduction
+# Example Topic
 
 Welcome to Computer Science 000: `Example Course`. This course focuses on learning how professional software developers build applications. As part of this instruction you will gain experience with the skills and technologies used in the real world of software construction. This includes: Software design, data modeling, object oriented programming, distributed communication, relational databases, and testing.
 
