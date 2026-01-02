@@ -6,14 +6,14 @@
 ## Links
 
 ```
-â readme.md - Home
-â Examples
-â â Example links - UUID: 330b3872aab6442fac17c6730d7502ed
-â â links-quizzes.md
-â â Main.java
-â  Assorted topics
-    â cheese-2
-      â cheese-2.md
+├ readme.md - Home
+├ Examples
+│ └ Links - UUID: 330b3872aab6442fac17c6730d7502ed
+│      ├ links.md
+│      └ Main.java
+└  Assorted topics
+    └ cheese-2
+         └ cheese-2.md
 ```
 
 ## Absolute URL: open in new tab
