@@ -203,12 +203,12 @@
       },
       "topics": [
         {
-          "title": "Ball bearings",
+          "title": "Mental health",
           "type": "instruction",
-          "path": "instruction/ball-bearings/ball-bearings.md",
-          "id": "870a1810ac4146a6bd58ccd88849e21c",
+          "path": "instruction/mental-health/mental-health.md",
+          "id": "6eac550008be4d3b84fc17dd8b790035",
           "externalRefs": {
-            "canvasPageId": 1470423
+            "canvasPageId": 1470424
           }
         }
       ]
