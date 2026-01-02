@@ -22,17 +22,6 @@
           "externalRefs": {
             "canvasPageId": 1470404
           }
-        },
-        {
-          "title": "links & quizzes",
-          "type": "instruction",
-          "path": "instruction/links-quizzes/links-quizzes.md",
-          "id": "b6c7df2a-699f-43a8-8508-08630dcc5cc6",
-          "description": "",
-          "commit": "38f2b488fb458bf638c724c742e65ae11846c76a",
-          "externalRefs": {
-            "canvasPageId": 1470405
-          }
         }
       ]
     },
@@ -49,6 +38,17 @@
           "commit": "8f4f856207fe4d0ea1d0a340fbcd035186234966",
           "externalRefs": {
             "canvasPageId": 1470407
+          }
+        },
+        {
+          "title": "links & quizzes",
+          "type": "instruction",
+          "path": "instruction/links-quizzes/links-quizzes.md",
+          "id": "b6c7df2a-699f-43a8-8508-08630dcc5cc6",
+          "description": "",
+          "commit": "38f2b488fb458bf638c724c742e65ae11846c76a",
+          "externalRefs": {
+            "canvasPageId": 1470405
           }
         },
         {
