@@ -59,6 +59,14 @@
           }
         },
         {
+          "title": "Example topic",
+          "path": "instruction/exampleTopic/exampleTopic.md",
+          "id": "33344322454747d6a7d8da1c57825e1f",
+          "externalRefs": {
+            "canvasPageId": 1470412
+          }
+        },
+        {
           "title": "links & quizzes",
           "type": "instruction",
           "path": "instruction/links-quizzes/links-quizzes.md",
@@ -87,14 +95,6 @@
           "id": "a6b219fb77674ee783e43d326b0a697c",
           "externalRefs": {
             "canvasPageId": 1470411
-          }
-        },
-        {
-          "title": "Example topic",
-          "path": "instruction/exampleTopic/exampleTopic.md",
-          "id": "33344322454747d6a7d8da1c57825e1f",
-          "externalRefs": {
-            "canvasPageId": 1470412
           }
         },
         {
