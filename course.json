@@ -148,15 +148,6 @@
           }
         },
         {
-          "title": "Box video",
-          "type": "video",
-          "path": "https://youtu.be/PKiRH2ZKZeM?cb=1758296271558",
-          "id": "3f54102849c844f1a1ea3c591e4075ed",
-          "externalRefs": {
-            "canvasPageId": 1470416
-          }
-        },
-        {
           "title": "Fermi paradox",
           "type": "instruction",
           "path": "instruction/mystery-topic/mystery-topic.md",
