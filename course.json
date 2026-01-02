@@ -23,6 +23,16 @@
           }
         },
         {
+          "title": "Schedule",
+          "type": "instruction",
+          "path": "schedule/schedule.md",
+          "id": "33398bdff38f40108c07a336314519d4",
+          "description": "",
+          "externalRefs": {
+            "canvasPageId": 1470408
+          }
+        },
+        {
           "title": "Home",
           "type": "instruction",
           "path": "README.md",
@@ -49,16 +59,6 @@
           "commit": "38f2b488fb458bf638c724c742e65ae11846c76a",
           "externalRefs": {
             "canvasPageId": 1470405
-          }
-        },
-        {
-          "title": "Schedule",
-          "type": "instruction",
-          "path": "schedule/schedule.md",
-          "id": "33398bdff38f40108c07a336314519d4",
-          "description": "",
-          "externalRefs": {
-            "canvasPageId": 1470408
           }
         },
         {
