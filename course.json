@@ -98,15 +98,6 @@
           }
         },
         {
-          "title": "buffer overflows",
-          "type": "instruction",
-          "path": "instruction/buffer-overflows/buffer-overflows.md",
-          "id": "f8ba7a8bc0924193868eadc8a9605035",
-          "externalRefs": {
-            "canvasPageId": 1470413
-          }
-        },
-        {
           "title": "Example video",
           "type": "video",
           "path": "https://youtu.be/PKiRH2ZKZeM",
@@ -168,6 +159,15 @@
           "commit": "0cce68398b19a271d690c646fbc5d5f676eeb2cb",
           "externalRefs": {
             "canvasPageId": 1470420
+          }
+        },
+        {
+          "title": "buffer overflows",
+          "type": "instruction",
+          "path": "instruction/buffer-overflows/buffer-overflows.md",
+          "id": "f8ba7a8bc0924193868eadc8a9605035",
+          "externalRefs": {
+            "canvasPageId": 1470413
           }
         },
         {
