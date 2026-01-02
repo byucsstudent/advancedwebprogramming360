@@ -151,6 +151,15 @@
           }
         },
         {
+          "title": "Bicycles",
+          "type": "instruction",
+          "path": "instruction/bicycles/bicycles.md",
+          "id": "4a4d2eba22cc4145875e1fe8d01124a4",
+          "externalRefs": {
+            "canvasPageId": 1470422
+          }
+        },
+        {
           "title": "React hooks",
           "type": "instruction",
           "path": "instruction/react-hooks/react-hooks.md",
@@ -183,17 +192,7 @@
       "externalRefs": {
         "canvasModuleId": 361108
       },
-      "topics": [
-        {
-          "title": "Bicycles",
-          "type": "instruction",
-          "path": "instruction/bicycles/bicycles.md",
-          "id": "4a4d2eba22cc4145875e1fe8d01124a4",
-          "externalRefs": {
-            "canvasPageId": 1470422
-          }
-        }
-      ]
+      "topics": []
     },
     {
       "title": "delete me",
