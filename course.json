@@ -183,15 +183,7 @@
     },
     {
       "title": "test",
-      "topics": [
-        {
-          "title": "test2",
-          "type": "instruction",
-          "path": "instruction/test2/test2.md",
-          "id": "1cecef09-272e-44de-bce0-871576118f47",
-          "description": ""
-        }
-      ]
+      "topics": []
     }
   ]
 }
