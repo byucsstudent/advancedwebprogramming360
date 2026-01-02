@@ -92,16 +92,6 @@
           }
         },
         {
-          "title": "Example project",
-          "type": "project",
-          "path": "instruction/this-is-a-project/this-is-a-project.md",
-          "id": "a6b219fb77674ee783e43d326b0a697c",
-          "description": "",
-          "externalRefs": {
-            "canvasPageId": 1470411
-          }
-        },
-        {
           "title": "Example video",
           "type": "video",
           "path": "https://youtu.be/PKiRH2ZKZeM",
@@ -117,6 +107,16 @@
           "id": "3a6127b6-eb69-4fb9-bb09-b45d6f8a39d8",
           "description": "",
           "commit": "6a28ad9c6b476a62a8c442068e5f2140eb82fb3f"
+        },
+        {
+          "title": "Example project",
+          "type": "project",
+          "path": "instruction/this-is-a-project/this-is-a-project.md",
+          "id": "a6b219fb77674ee783e43d326b0a697c",
+          "description": "",
+          "externalRefs": {
+            "canvasPageId": 1470411
+          }
         }
       ]
     },
