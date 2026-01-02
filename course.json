@@ -114,7 +114,8 @@
           "type": "instruction",
           "path": "instruction/quizzes/quizzes.md",
           "id": "3a6127b6-eb69-4fb9-bb09-b45d6f8a39d8",
-          "description": ""
+          "description": "",
+          "commit": "6a28ad9c6b476a62a8c442068e5f2140eb82fb3f"
         }
       ]
     },
