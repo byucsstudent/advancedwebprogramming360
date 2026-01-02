@@ -183,7 +183,15 @@
     },
     {
       "title": "pickles",
-      "topics": []
+      "topics": [
+        {
+          "title": "pop",
+          "type": "instruction",
+          "path": "instruction/pop/pop.md",
+          "id": "8c7f772f-9ef1-496a-8522-e261677fefd1",
+          "description": ""
+        }
+      ]
     }
   ]
 }
