@@ -12,7 +12,7 @@
 │        ├ links.md
 │        └ Main.java
 └ Assorted topics
-    └ cheese-2
+    └ cheese-2 (140d86ce9e9b4ce59fd095bb959c9df4)
          └ cheese-2.md
 ```
 
