@@ -76,7 +76,8 @@
           "type": "instruction",
           "path": "instruction/example-links/example-links.md",
           "id": "c84f4f2e-2ecd-414a-bcfb-65cf10516e77",
-          "description": ""
+          "description": "",
+          "commit": "0c3eba82ee8507b85beb84cf6a861460a9a2252e"
         },
         {
           "title": "Media",
