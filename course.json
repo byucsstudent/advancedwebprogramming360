@@ -210,15 +210,6 @@
           "externalRefs": {
             "canvasPageId": 1470423
           }
-        },
-        {
-          "title": "Mental health",
-          "type": "instruction",
-          "path": "instruction/mental-health/mental-health.md",
-          "id": "6eac550008be4d3b84fc17dd8b790035",
-          "externalRefs": {
-            "canvasPageId": 1470424
-          }
         }
       ]
     },
