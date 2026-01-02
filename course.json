@@ -152,6 +152,15 @@
           }
         },
         {
+          "title": "React useContext",
+          "type": "instruction",
+          "path": "instruction/react-usecontext/react-usecontext.md",
+          "id": "045a285e6d22421db93f626f640808e5",
+          "externalRefs": {
+            "canvasPageId": 1470421
+          }
+        },
+        {
           "title": "Fermi paradox",
           "type": "instruction",
           "path": "instruction/mystery-topic/mystery-topic.md",
@@ -167,17 +176,7 @@
       "externalRefs": {
         "canvasModuleId": 361107
       },
-      "topics": [
-        {
-          "title": "React useContext",
-          "type": "instruction",
-          "path": "instruction/react-usecontext/react-usecontext.md",
-          "id": "045a285e6d22421db93f626f640808e5",
-          "externalRefs": {
-            "canvasPageId": 1470421
-          }
-        }
-      ]
+      "topics": []
     },
     {
       "title": "delete 3",
