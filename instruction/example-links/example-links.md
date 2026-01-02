@@ -6,12 +6,12 @@
 ## Links
 
 ```
-├ readme.md - Home
+├ readme.md - Home (330b3872aab6442fac17c6730d7502ed)
 ├ Examples
-│ └ Links - UUID: 330b3872aab6442fac17c6730d7502ed
-│      ├ links.md
-│      └ Main.java
-└  Assorted topics
+│   └ Links (c84f4f2e-2ecd-414a-bcfb-65cf10516e77)
+│        ├ links.md
+│        └ Main.java
+└ Assorted topics
     └ cheese-2
          └ cheese-2.md
 ```
