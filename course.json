@@ -102,10 +102,11 @@
           }
         },
         {
-          "title": "Example video",
+          "title": "Video",
           "type": "video",
           "path": "https://youtu.be/PKiRH2ZKZeM",
           "id": "3330b0df266449eadc8f4e9a1e966b6",
+          "description": "",
           "externalRefs": {
             "canvasPageId": 1470414
           }
