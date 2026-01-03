@@ -27,7 +27,7 @@ This course seeks to help you to get familiar with the major features of Mastery
 *   **Projects:** Demonstrate mastery with creative projects and then add them to your portfolio.
 *  **AI Exams:** Automatically grade exams using AI and then have a mentor give it a final review.
 
-### Personalization & Management Features
+## Personalization & Management Features
 
 *   **Personalized Dashboard:** Individualized dashboard showing enrolled courses and progress.
 *   **Metrics:** Visualizations for time spent on each course and activity.
