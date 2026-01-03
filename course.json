@@ -12,15 +12,6 @@
       },
       "topics": [
         {
-          "title": "Syllabus",
-          "path": "instruction/syllabus/syllabus.md",
-          "id": "3384677c4b7c47b1a40402c63ed07db8",
-          "commit": "8f4f856207fe4d0ea1d0a340fbcd035186234966",
-          "externalRefs": {
-            "canvasPageId": 1470407
-          }
-        },
-        {
           "title": "Home",
           "type": "instruction",
           "path": "README.md",
@@ -28,6 +19,15 @@
           "commit": "70057a2d28a23ad7983d2c18b41242b6589856dc",
           "externalRefs": {
             "canvasPageId": 1470404
+          }
+        },
+        {
+          "title": "Syllabus",
+          "path": "instruction/syllabus/syllabus.md",
+          "id": "3384677c4b7c47b1a40402c63ed07db8",
+          "commit": "8f4f856207fe4d0ea1d0a340fbcd035186234966",
+          "externalRefs": {
+            "canvasPageId": 1470407
           }
         },
         {
