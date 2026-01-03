@@ -8,7 +8,7 @@
     {
       "title": "Course info",
       "externalRefs": {
-        "canvasModuleId": 361104
+        "canvasModuleId": 370135
       },
       "topics": [
         {
@@ -18,7 +18,7 @@
           "id": "330b3872aab6442fac17c6730d7502ed",
           "commit": "c63a64411002360fb1168d5452ea395ed128b759",
           "externalRefs": {
-            "canvasPageId": 1470404
+            "canvasPageId": 1499030
           }
         },
         {
@@ -27,7 +27,7 @@
           "id": "3384677c4b7c47b1a40402c63ed07db8",
           "commit": "8f4f856207fe4d0ea1d0a340fbcd035186234966",
           "externalRefs": {
-            "canvasPageId": 1470407
+            "canvasPageId": 1499031
           }
         },
         {
@@ -38,7 +38,7 @@
           "description": "",
           "commit": "5a9455733c62e8f452207bb7503430a4b4299766",
           "externalRefs": {
-            "canvasPageId": 1470408
+            "canvasPageId": 1499032
           }
         }
       ]
@@ -46,7 +46,7 @@
     {
       "title": "Demonstrations",
       "externalRefs": {
-        "canvasModuleId": 361105
+        "canvasModuleId": 370136
       },
       "topics": [
         {
@@ -57,7 +57,7 @@
           "description": "",
           "commit": "902e4deae6f037077ba999a8d9a35b09cc16dcdf",
           "externalRefs": {
-            "canvasPageId": 1470410
+            "canvasPageId": 1499033
           }
         },
         {
@@ -68,7 +68,7 @@
           "description": "",
           "commit": "2436e2eb5fb47fb9ada1d1d01db5bf5617db64cc",
           "externalRefs": {
-            "canvasPageId": 1470412
+            "canvasPageId": 1499034
           }
         },
         {
@@ -77,7 +77,10 @@
           "path": "instruction/example-links/example-links.md",
           "id": "c84f4f2e-2ecd-414a-bcfb-65cf10516e77",
           "description": "",
-          "commit": "aa9998c7d4188c1d8f49f25216df85a8374714cf"
+          "commit": "aa9998c7d4188c1d8f49f25216df85a8374714cf",
+          "externalRefs": {
+            "canvasPageId": 1499035
+          }
         },
         {
           "title": "Media",
@@ -87,7 +90,7 @@
           "description": "",
           "commit": "130e566567dc0a97f3ed2c7e0ccce4a9894c6666",
           "externalRefs": {
-            "canvasPageId": 1470405
+            "canvasPageId": 1499036
           }
         },
         {
@@ -96,7 +99,10 @@
           "path": "instruction/quizzes/quizzes.md",
           "id": "3a6127b6-eb69-4fb9-bb09-b45d6f8a39d8",
           "description": "",
-          "commit": "060a77f4758d871cbc23eeca46f323410614598b"
+          "commit": "060a77f4758d871cbc23eeca46f323410614598b",
+          "externalRefs": {
+            "canvasPageId": 1499037
+          }
         },
         {
           "title": "Exam",
@@ -106,7 +112,7 @@
           "description": "",
           "commit": "5a76773f52150a0cca165d8ce04b4d4a29b6c246",
           "externalRefs": {
-            "canvasPageId": 1470409
+            "canvasPageId": 1499038
           }
         },
         {
@@ -116,7 +122,7 @@
           "id": "3330b0df266449eadc8f4e9a1e966b6",
           "description": "",
           "externalRefs": {
-            "canvasPageId": 1470414
+            "canvasPageId": 1499039
           }
         },
         {
@@ -127,7 +133,7 @@
           "description": "",
           "commit": "0e830f9fd7d16ff4bcf2c44809ca998ddabf4cc9",
           "externalRefs": {
-            "canvasPageId": 1470411
+            "canvasPageId": 1499040
           }
         }
       ]
@@ -135,7 +141,7 @@
     {
       "title": "Example topics",
       "externalRefs": {
-        "canvasModuleId": 361106
+        "canvasModuleId": 370137
       },
       "topics": [
         {
@@ -146,7 +152,7 @@
           "description": "",
           "commit": "d1c0e88986f4c0530ff1c59d3a44394741e400bc",
           "externalRefs": {
-            "canvasPageId": 1470406
+            "canvasPageId": 1499041
           }
         },
         {
@@ -155,7 +161,7 @@
           "path": "instruction/mystery-topic/mystery-topic.md",
           "id": "9c579dfa72f7447c8f14e38d916ef377",
           "externalRefs": {
-            "canvasPageId": 1470418
+            "canvasPageId": 1499042
           }
         },
         {
@@ -165,7 +171,7 @@
           "id": "4a4d2eba22cc4145875e1fe8d01124a4",
           "description": "",
           "externalRefs": {
-            "canvasPageId": 1470422
+            "canvasPageId": 1499043
           }
         },
         {
@@ -175,7 +181,7 @@
           "id": "b0c37fd40a8145b3ac59cc55737831f8",
           "commit": "0cce68398b19a271d690c646fbc5d5f676eeb2cb",
           "externalRefs": {
-            "canvasPageId": 1470420
+            "canvasPageId": 1499044
           }
         },
         {
@@ -184,7 +190,7 @@
           "path": "instruction/buffer-overflows/buffer-overflows.md",
           "id": "f8ba7a8bc0924193868eadc8a9605035",
           "externalRefs": {
-            "canvasPageId": 1470413
+            "canvasPageId": 1499045
           }
         },
         {
@@ -193,7 +199,7 @@
           "path": "instruction/react-usecontext/react-usecontext.md",
           "id": "045a285e6d22421db93f626f640808e5",
           "externalRefs": {
-            "canvasPageId": 1470421
+            "canvasPageId": 1499046
           }
         }
       ]
