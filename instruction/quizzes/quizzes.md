@@ -28,13 +28,13 @@
 
 
 ```masteryls
-{"id":"25a5068d-4b97-4c7d-9936-cf97b426f87e", "title":"Essay", "type":"essay", "body":"Simple **essay** question" }
+{"id":"25a5068d-4b97-4c7d-9936-cf97b426f87e", "title":"Essay", "type":"essay", "body":"What is the **Fermi Paradox**?" }
 ```
 
 ```masteryls
-{"id":"681edaf2-8c77-46cc-8014-f3ed1634b199", "title":"File submission", "type":"file-submission", "body":"Simple **submission** by file", "allowComment":true  }
+{"id":"681edaf2-8c77-46cc-8014-f3ed1634b199", "title":"File submission", "type":"file-submission", "body":"Provide a screen capture of your testing results.", "allowComment":true  }
 ```
 
 ```masteryls
-{"id":"76b87c04-6c7b-430e-9b04-aae522d571e2", "title":"URL submission", "type":"url-submission", "body":"Simple **submission** by url", "allowComment":true }
+{"id":"76b87c04-6c7b-430e-9b04-aae522d571e2", "title":"URL submission", "type":"url-submission", "body":"Provide the URL of your production website.", "allowComment":true }
 ```
