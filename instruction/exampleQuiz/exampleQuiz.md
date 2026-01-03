@@ -12,7 +12,7 @@ The following questions are designed to determine your mastery of implementing t
 
 ```masteryls
 {"id":"4266ab38-e2da-4650-8ec9-32cbd42b59cd", "title":"Iterative Fibonacci - Loop Condition", "type":"multiple-choice", "body":"You are implementing an iterative Fibonacci function in JavaScript.  You have initialized an array `fib` with the first two Fibonacci numbers: `fib = [0, 1];`.  What is the correct loop condition to calculate the Fibonacci sequence up to the `n`th number?" }
-- [ ] `for (let i = 2; i <= n; i++)`
+- [ ] `for (let i = 0; i <= n; i++)`
 - [x] `for (let i = 2; i <= n; i++)`
 - [ ] `for (let i = 2; i < n; i++)`
 - [ ] `for (let i = 1; i <= n; i++)`
