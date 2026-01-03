@@ -12,6 +12,7 @@ This course seeks to help you to get familiar with the major features of Mastery
 *   **Versions:** All course changes are versioned, comparable, and reversible.
 *   **Collaboration:** Multiple editors can work on a course.
 *  **Stateful:** Course and topics may be published, under development, or unpublished.
+* **Compatible:** Export and sync to a Canvas course.
 
 ## Content Creation
 
