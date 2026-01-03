@@ -63,7 +63,7 @@
           }
         },
         {
-          "title": "Markdown support",
+          "title": "Markdown",
           "type": "instruction",
           "path": "instruction/exampleTopic/exampleTopic.md",
           "id": "33344322454747d6a7d8da1c57825e1f",
