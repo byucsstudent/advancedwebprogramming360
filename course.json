@@ -1,7 +1,5 @@
 {
   "title": "MasteryLS Demo",
-  "schedule": "schedule/schedule.md",
-  "syllabus": "instruction/syllabus/syllabus.md",
   "links": {},
   "externalRefs": {
     "canvasCourseId": "33932"
@@ -18,7 +16,7 @@
           "type": "instruction",
           "path": "README.md",
           "id": "330b3872aab6442fac17c6730d7502ed",
-          "commit": "b721829e0dc4798d8d90471cb74273ae648983c0",
+          "commit": "99c2a27fc6eb605894bf01ae0b010b20f81539cb",
           "externalRefs": {
             "canvasPageId": 1470404
           }
