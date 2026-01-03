@@ -4,32 +4,32 @@
 
 ![masterylscover.jpg](masterylscover.jpg)
 
-## Welcome
-
 This course seeks to help you to get familiar with the major features of Mastery LS.
 
-### Core Features
+## Content Managment
 
-*   **Course Catalog:** Explore available courses and learning paths.
-*   **Learning Paths:** Curated sequences of courses designed to achieve specific learning objectives.
-*   **Individual Courses:** Standalone courses focusing on specific skills or knowledge areas.
-*   **Progress Tracking:** Monitor your advancement through courses and learning paths.
+*   **GitHub Support:** All content is stored in a customer owned GitHub repository.
+*   **Versions:** All courese changes are versioned, compariable, and revertable.
+*   **Collaboration:** Multiple editors can work on a course.
 
-### Content Engagement Features
+## Content Creation
 
-*   **Video Lessons:** Engaging video content to explain concepts and demonstrate practical applications.
-*   **Interactive Quizzes:** Test your understanding with immediate feedback.
-*   **Reading Materials:** Supplementary articles, documents, and guides for deeper learning.
-*   **Assignments & Projects:** Apply your knowledge through practical exercises and real-world projects.
+*  **Advanced editor:** Multiple select, search and replace, spell checking, syntax highlighting, and color coding.
+*   **Markdown:** Simplified markdown content editing for clarity and consistency.
+*   **Media:** Maximize learner attention with video, audio, images, and rich textual content.
+*   **Topic types:** Textual, quiz, exam, video, and project topic types.
+*  **AI generation:** Use AI to generate a course, topic, section, or quiz.
 
-### Community & Support Features
+## Instruction
 
-*   **Discussion Forums:** Engage with instructors and fellow learners to ask questions and share insights.
-*   **Instructor Support:** Access expert guidance and clarification from instructors.
+*   **AI Interactive Quizzes:** Enhance learning with AI generated feedback and discussion.
+*   **AI Tutoring:** Use context aware AI tutoring to explain topics and deepen understanding.
+*   **Projects:** Demonstrate mastery with creative projects and then add them to your portfolio.
+*  **AI Exams:** Automatically grade exams using AI and then have a mentor give it a final review.
 
 ### Personalization & Management Features
 
-*   **Personalized Dashboard:** A central hub for your learning journey, showing enrolled courses, progress, and recommendations.
-*   **Skill Development Tools:** Features designed to help you identify and build specific skills.
-*   **Certifications:** Earn verifiable credentials upon successful completion of courses or learning paths.
+*   **Personalized Dashboard:** Individualized dashboard showing enrolled courses and progress.
+*   **Metrics:** Visualizations for time spent on each course and activity.
+*   **Progress:** Detailed log of all course interactions and accomplishments.
 
