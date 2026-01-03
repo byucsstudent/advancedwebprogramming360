@@ -8,9 +8,10 @@ This course seeks to help you to get familiar with the major features of Mastery
 
 ## Content Managment
 
-*   **GitHub Support:** All content is stored in a customer owned GitHub repository.
-*   **Versions:** All courese changes are versioned, compariable, and revertable.
+*   **GitHub:** All content is stored in your GitHub repository.
+*   **Versions:** All course changes are versioned, comparable, and reversible.
 *   **Collaboration:** Multiple editors can work on a course.
+*  **Stateful:** Course and topics may be published, under development, or unpublished.
 
 ## Content Creation
 
